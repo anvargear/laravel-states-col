@@ -1,0 +1,266 @@
+{
+  "1": {
+    "name": "Amazonas",
+    "iso_3166_3": "AMA",
+    "capital": "Leticia",
+    "country_code": "CO",
+    "dane_code": "91",
+    "region": "Región Centro Sur"
+  },
+  "2": {
+    "name": "Antioquia",
+    "iso_3166_3": "ANT",
+    "capital": "Medellín",
+    "country_code": "CO",
+    "dane_code": "5",
+    "region": "Región Eje Cafetero - Antioquia"
+  },
+  "3": {
+    "name": "Arauca",
+    "iso_3166_3": "ARA",
+    "capital": "Arauca",
+    "country_code": "CO",
+    "dane_code": "81",
+    "region": "Región Llano"
+  },
+  "4": {
+    "name": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+    "iso_3166_3": "SAP",
+    "capital": "San Andrés",
+    "country_code": "CO",
+    "dane_code": "88",
+    "region": "Región Caribe"
+  },
+  "5": {
+    "name": "Atlántico",
+    "iso_3166_3": "ATL",
+    "capital": "Barranquilla",
+    "country_code": "CO",
+    "dane_code": "8",
+    "region": "Región Caribe"
+  },
+  "6": {
+    "name": "Bogotá DC",
+    "iso_3166_3": "DC",
+    "capital": "Bogotá",
+    "country_code": "CO",
+    "dane_code": "11",
+    "region": "Región Centro Oriente"
+  },
+  "7": {
+    "name": "Bolivar",
+    "iso_3166_3": "BOL",
+    "capital": "Cartagena",
+    "country_code": "CO",
+    "dane_code": "13",
+    "region": "Región Caribe"
+  },
+  "8": {
+    "name": "Boyacá",
+    "iso_3166_3": "BOY",
+    "capital": "Tunja",
+    "country_code": "CO",
+    "dane_code": "15",
+    "region": "Región Centro Oriente"
+  },
+  "9": {
+    "name": "Caldas",
+    "iso_3166_3": "CAL",
+    "capital": "Manizales",
+    "country_code": "CO",
+    "dane_code": "17",
+    "region": "Región Eje Cafetero - Antioquia"
+  },
+  "10": {
+    "name": "Caquetá",
+    "iso_3166_3": "CAQ",
+    "capital": "Florencia",
+    "country_code": "CO",
+    "dane_code": "18",
+    "region": "Región Centro Sur"
+  },
+  "11": {
+    "name": "Casanare",
+    "iso_3166_3": "CAS",
+    "capital": "Yopal",
+    "country_code": "CO",
+    "dane_code": "85",
+    "region": "Región Llano"
+  },
+  "12": {
+    "name": "Cauca",
+    "iso_3166_3": "CAU",
+    "capital": "Popayán",
+    "country_code": "CO",
+    "dane_code": "19",
+    "region": "Región Pacífico"
+  },
+  "13": {
+    "name": "Cesar",
+    "iso_3166_3": "CES",
+    "capital": "Valledupar",
+    "country_code": "CO",
+    "dane_code": "20",
+    "region": "Región Caribe"
+  },
+  "14": {
+    "name": "Chocó",
+    "iso_3166_3": "CHO",
+    "capital": "Quibdó",
+    "country_code": "CO",
+    "dane_code": "27",
+    "region": "Región Pacífico"
+  },
+  "15": {
+    "name": "Córdoba",
+    "iso_3166_3": "COR",
+    "capital": "Monteria",
+    "country_code": "CO",
+    "dane_code": "23",
+    "region": "Región Caribe"
+  },
+  "16": {
+    "name": "Cundinamarca",
+    "iso_3166_3": "CUN",
+    "capital": "Bogotá",
+    "country_code": "CO",
+    "dane_code": "25",
+    "region": "Región Centro Oriente"
+  },
+  "17": {
+    "name": "Guainía",
+    "iso_3166_3": "GUA",
+    "capital": "Irínida",
+    "country_code": "CO",
+    "dane_code": "94",
+    "region": "Región Llano"
+  },
+  "18": {
+    "name": "Guaviare",
+    "iso_3166_3": "GUV",
+    "capital": "San José de Guaviare",
+    "country_code": "CO",
+    "dane_code": "95",
+    "region": "Región Llano"
+  },
+  "19": {
+    "name": "Huila",
+    "iso_3166_3": "HUI",
+    "capital": "Neiva",
+    "country_code": "CO",
+    "dane_code": "41",
+    "region": "Región Centro Sur"
+  },
+  "20": {
+    "name": "La Guajira",
+    "iso_3166_3": "LAG",
+    "capital": "Riohacha",
+    "country_code": "CO",
+    "dane_code": "44",
+    "region": "Región Caribe"
+  },
+  "21": {
+    "name": "Magdalena",
+    "iso_3166_3": "MAG",
+    "capital": "Santa Marta",
+    "country_code": "CO",
+    "dane_code": "47",
+    "region": "Región Caribe"
+  },
+  "22": {
+    "name": "Meta",
+    "iso_3166_3": "MET",
+    "capital": "Villavicencio",
+    "country_code": "CO",
+    "dane_code": "50",
+    "region": "Región Llano"
+  },
+  "23": {
+    "name": "Nariño",
+    "iso_3166_3": "NAR",
+    "capital": "Pasto",
+    "country_code": "CO",
+    "dane_code": "52",
+    "region": "Región Pacífico"
+  },
+  "24": {
+    "name": "Norte de Santander",
+    "iso_3166_3": "NSA",
+    "capital": "Cúcuta",
+    "country_code": "CO",
+    "dane_code": "54",
+    "region": "Región Centro Oriente"
+  },
+  "25": {
+    "name": "Putumayo",
+    "iso_3166_3": "PUT",
+    "capital": "Mocoa",
+    "country_code": "CO",
+    "dane_code": "86",
+    "region": "Región Centro Sur"
+  },
+  "26": {
+    "name": "Quindío",
+    "iso_3166_3": "QUI",
+    "capital": "Armenia",
+    "country_code": "CO",
+    "dane_code": "63",
+    "region": "Región Eje Cafetero - Antioquia"
+  },
+  "27": {
+    "name": "Risaralda",
+    "iso_3166_3": "RIS",
+    "capital": "Pereira",
+    "country_code": "CO",
+    "dane_code": "66",
+    "region": "Región Eje Cafetero - Antioquia"
+  },
+  "28": {
+    "name": "Santander",
+    "iso_3166_3": "SAN",
+    "capital": "Bucaramanga",
+    "country_code": "CO",
+    "dane_code": "68",
+    "region": "Región Centro Oriente"
+  },
+  "29": {
+    "name": "Sucre",
+    "iso_3166_3": "SUC",
+    "capital": "Sincelejo",
+    "country_code": "CO",
+    "dane_code": "70",
+    "region": "Región Caribe"
+  },
+  "30": {
+    "name": "Tolima",
+    "iso_3166_3": "TOL",
+    "capital": "Ibagué",
+    "country_code": "CO",
+    "dane_code": "73",
+    "region": "Región Centro Sur"
+  },
+  "31": {
+    "name": "Vallder del Cauca",
+    "iso_3166_3": "VAC",
+    "capital": "Santiago de Cali",
+    "country_code": "CO",
+    "dane_code": "76",
+    "region": "Región Pacífico"
+  },
+  "32": {
+    "name": "Vaupés",
+    "iso_3166_3": "VAU",
+    "capital": "Mitú",
+    "country_code": "CO",
+    "dane_code": "97",
+    "region": "Región Llano"
+  },
+  "33": {
+    "name": "Vichada",
+    "iso_3166_3": "VID",
+    "capital": "Puerto Carreño",
+    "country_code": "CO",
+    "dane_code": "99",
+    "region": "Región Llano"
+  }
+}

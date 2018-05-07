@@ -1,8 +1,8 @@
 # Laravel Departaments And Cities (Colombia)
 
-[![Total Downloads](https://poser.pugx.org/anvargear/laravel-states-col/downloads.svg)](https://packagist.org/packages/anvargear/anvargear/laravel-states-col)
-[![Latest Stable Version](https://poser.pugx.org/anvargear/laravel-states-col/v/stable.svg)](https://packagist.org/packages/anvargear/anvargear/laravel-states-col)
-[![Latest Unstable Version](https://poser.pugx.org/anvargear/laravel-states-col/v/unstable.svg)](https://packagist.org/packages/anvargear/anvargear/laravel-states-col)
+[![Total Downloads](https://poser.pugx.org/anvargear/laravel-states-col/downloads.svg)](https://packagist.org/packages/anvargear/laravel-states-col)
+[![Latest Stable Version](https://poser.pugx.org/anvargear/laravel-states-col/v/stable.svg)](https://packagist.org/packages/anvargear/laravel-states-col)
+[![Latest Unstable Version](https://poser.pugx.org/anvargear/laravel-states-col/v/unstable.svg)](https://packagist.org/packages/anvargear/laravel-states-col)
 
 Laravel Departaments and Cities Colombia is a bundle for Laravel, providing Almost ISO 3166_3, Dane Code and Capital
 
