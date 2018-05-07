@@ -1,0 +1,30 @@
+{
+    "name": "anvargear/laravel-states-col",
+    "description": "Laravel Departaments and Cities Colombia is a bundle for Laravel, providing Almost ISO 3166_3, Dane Code and Capital.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrés Felipe Vásquez",
+            "email": "avasquez@anvargear.co"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7.1"
+    },
+    "support": {
+        "email": "avasquez@anvargear.co",
+        "wiki": "https://github.com/AnvarGear/laravel-states-col/wiki"
+    },
+    "autoload": {
+        "psr-4": {
+            "AnvarGear\\States\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "AnvarGear\\States\\Tests\\": "tests/"
+        }
+    }
+}
