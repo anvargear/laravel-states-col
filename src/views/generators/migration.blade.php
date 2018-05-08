@@ -22,7 +22,7 @@ class SetupStatesTable extends Migration {
             $table->string('country_code', 2)->default('CO');
             $table->string('dane_code', 2)->default('')->nullable();
             $table->string('region', 255)->default('')->nullable();
-
+            $table->timestamps();
             $table->primary('id');
         });
     }
