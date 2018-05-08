@@ -12,12 +12,12 @@ class CountriesSeeder extends Seeder {
     public function run()
     {
         //Empty the countries table
-        DB::table(\Config::get('countries.table_name'))->delete();
+        DB::table(\Config::get('colombia.table_name'))->delete();
 
         //Get all of the countries
         $states = States::getList();
         foreach ($states as $stateId => $state){
-            DB::table(\Config::get('countries.table_name'))->insert(array(
+            DB::table(\Config::get('colombia.table_name'))->insert(array(
                 'id' => $stateId,
                 'name' => ((isset($state['name'])) ? $state['name'] : null),
                 'iso_3166_2' => $state['iso_3166_2'],

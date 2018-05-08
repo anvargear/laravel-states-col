@@ -20,7 +20,7 @@ class StatesServiceProvider extends ServiceProvider
     public function boot()
     {
         // The publication files to publish
-        $this->publishes([__DIR__ . '/../../config/config.php' => config_path('states.php')]);
+        $this->publishes([__DIR__ . '/../../config/config.php' => config_path('colombia.php')]);
         // Append the state settings
         $this->mergeConfigFrom(__DIR__ . '/../../config/config.php', 'states');
     }

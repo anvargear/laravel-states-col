@@ -26,7 +26,7 @@ class States extends Model
      */
     public function __construct()
     {
-        $this->table = \Config::get('states.table_name');
+        $this->table = \Config::get('colombia.table_name');
     }
 
 

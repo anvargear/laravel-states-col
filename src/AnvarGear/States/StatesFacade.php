@@ -14,6 +14,6 @@ class StatesFacade extends Facade
      */
     protected static function getFacadeAccessor()
     {
-        return 'states';
+        return 'colombia';
     }
 }
