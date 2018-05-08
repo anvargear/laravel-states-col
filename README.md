@@ -25,7 +25,7 @@ Edit `app/config/app.php` and add the `provider` and `filter`
 Now add the alias.
 
     'aliases' => [
-        'Colstates' => 'AnvaGear\States\StatesFacade',
+        'StatesCol' => 'AnvaGear\States\StatesFacade',
     ]
     
 ## Model
