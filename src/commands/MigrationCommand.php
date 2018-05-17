@@ -50,7 +50,7 @@ class MigrationCommand extends Command
             if ($this->createMigration('states')) {
                 $this->line('');
 
-                $this->call();
+                //$this->call();
 
                 $this->line('');
 
