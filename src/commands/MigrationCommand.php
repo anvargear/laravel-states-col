@@ -25,7 +25,6 @@ class MigrationCommand extends Command
     /**
      * Create a new command instance.
      *
-     * @return void
      */
     public function __construct()
     {
@@ -51,7 +50,7 @@ class MigrationCommand extends Command
             if ($this->createMigration('states')) {
                 $this->line('');
 
-                $this->call('optimize', []);
+                $this->call();
 
                 $this->line('');
 
