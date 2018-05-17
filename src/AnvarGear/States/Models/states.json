@@ -40,7 +40,7 @@
     "region": "Región Caribe"
   },
   "6": {
-    "name": "Bogotá DC",
+    "name": "Bogotá D.C.",
     "iso_3166_3": "DC",
     "capital": "Bogotá",
     "country_code": "CO",
@@ -48,7 +48,7 @@
     "region": "Región Centro Oriente"
   },
   "7": {
-    "name": "Bolivar",
+    "name": "Bolívar",
     "iso_3166_3": "BOL",
     "capital": "Cartagena",
     "country_code": "CO",
@@ -240,7 +240,7 @@
     "region": "Región Centro Sur"
   },
   "31": {
-    "name": "Vallder del Cauca",
+    "name": "Valle del Cauca",
     "iso_3166_3": "VAC",
     "capital": "Santiago de Cali",
     "country_code": "CO",

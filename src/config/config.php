@@ -8,5 +8,6 @@ return array(
      | The name of the table to create in the database
      |
      */
-    'table_name' => 'departaments',
+    'table_departament' => 'departaments',
+    'table_cities' => 'cities',
 );

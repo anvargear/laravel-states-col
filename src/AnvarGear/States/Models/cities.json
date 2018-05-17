@@ -1,0 +1,6740 @@
+[
+  {
+    "name": "Miriti Paraná",
+    "iso_3166_3": null,
+    "dane_code": 9146,
+    "departament_id": 1
+  },
+  {
+    "name": "Leticia",
+    "iso_3166_3": null,
+    "dane_code": 91001,
+    "departament_id": 1
+  },
+  {
+    "name": "El Encanto",
+    "iso_3166_3": null,
+    "dane_code": 91263,
+    "departament_id": 1
+  },
+  {
+    "name": "La Chorrera",
+    "iso_3166_3": null,
+    "dane_code": 91405,
+    "departament_id": 1
+  },
+  {
+    "name": "La Pedrera",
+    "iso_3166_3": null,
+    "dane_code": 91407,
+    "departament_id": 1
+  },
+  {
+    "name": "La Victoria",
+    "iso_3166_3": null,
+    "dane_code": 9143,
+    "departament_id": 1
+  },
+  {
+    "name": "Puerto Arica",
+    "iso_3166_3": null,
+    "dane_code": 91536,
+    "departament_id": 1
+  },
+  {
+    "name": "Puerto Nariño",
+    "iso_3166_3": null,
+    "dane_code": 9154,
+    "departament_id": 1
+  },
+  {
+    "name": "Puerto Santander",
+    "iso_3166_3": null,
+    "dane_code": 91669,
+    "departament_id": 1
+  },
+  {
+    "name": "Tarapacá",
+    "iso_3166_3": null,
+    "dane_code": 91798,
+    "departament_id": 1
+  },
+  {
+    "name": "Puerto Alegría",
+    "iso_3166_3": null,
+    "dane_code": 9153,
+    "departament_id": 1
+  },
+  {
+    "name": "Medellín",
+    "iso_3166_3": null,
+    "dane_code": 5001,
+    "departament_id": 2
+  },
+  {
+    "name": "Abejorral",
+    "iso_3166_3": null,
+    "dane_code": 5002,
+    "departament_id": 2
+  },
+  {
+    "name": "Abriaquí",
+    "iso_3166_3": null,
+    "dane_code": 5004,
+    "departament_id": 2
+  },
+  {
+    "name": "Alejandría",
+    "iso_3166_3": null,
+    "dane_code": 5021,
+    "departament_id": 2
+  },
+  {
+    "name": "Amagá",
+    "iso_3166_3": null,
+    "dane_code": 503,
+    "departament_id": 2
+  },
+  {
+    "name": "Amalfi",
+    "iso_3166_3": null,
+    "dane_code": 5031,
+    "departament_id": 2
+  },
+  {
+    "name": "Andes",
+    "iso_3166_3": null,
+    "dane_code": 5034,
+    "departament_id": 2
+  },
+  {
+    "name": "Angelópolis",
+    "iso_3166_3": null,
+    "dane_code": 5036,
+    "departament_id": 2
+  },
+  {
+    "name": "Angostura",
+    "iso_3166_3": null,
+    "dane_code": 5038,
+    "departament_id": 2
+  },
+  {
+    "name": "Anorí",
+    "iso_3166_3": null,
+    "dane_code": 504,
+    "departament_id": 2
+  },
+  {
+    "name": "Anza",
+    "iso_3166_3": null,
+    "dane_code": 5044,
+    "departament_id": 2
+  },
+  {
+    "name": "Apartadó",
+    "iso_3166_3": null,
+    "dane_code": 5045,
+    "departament_id": 2
+  },
+  {
+    "name": "Arboletes",
+    "iso_3166_3": null,
+    "dane_code": 5051,
+    "departament_id": 2
+  },
+  {
+    "name": "Argelia",
+    "iso_3166_3": null,
+    "dane_code": 5055,
+    "departament_id": 2
+  },
+  {
+    "name": "Armenia",
+    "iso_3166_3": null,
+    "dane_code": 5059,
+    "departament_id": 2
+  },
+  {
+    "name": "Barbosa",
+    "iso_3166_3": null,
+    "dane_code": 5079,
+    "departament_id": 2
+  },
+  {
+    "name": "Bello",
+    "iso_3166_3": null,
+    "dane_code": 5088,
+    "departament_id": 2
+  },
+  {
+    "name": "Betania",
+    "iso_3166_3": null,
+    "dane_code": 5091,
+    "departament_id": 2
+  },
+  {
+    "name": "Betulia",
+    "iso_3166_3": null,
+    "dane_code": 5093,
+    "departament_id": 2
+  },
+  {
+    "name": "Ciudad Bolívar",
+    "iso_3166_3": null,
+    "dane_code": 5101,
+    "departament_id": 2
+  },
+  {
+    "name": "Briceño",
+    "iso_3166_3": null,
+    "dane_code": 5107,
+    "departament_id": 2
+  },
+  {
+    "name": "Buriticá",
+    "iso_3166_3": null,
+    "dane_code": 5113,
+    "departament_id": 2
+  },
+  {
+    "name": "Cáceres",
+    "iso_3166_3": null,
+    "dane_code": 512,
+    "departament_id": 2
+  },
+  {
+    "name": "Caicedo",
+    "iso_3166_3": null,
+    "dane_code": 5125,
+    "departament_id": 2
+  },
+  {
+    "name": "Caldas",
+    "iso_3166_3": null,
+    "dane_code": 5129,
+    "departament_id": 2
+  },
+  {
+    "name": "Campamento",
+    "iso_3166_3": null,
+    "dane_code": 5134,
+    "departament_id": 2
+  },
+  {
+    "name": "Cañasgordas",
+    "iso_3166_3": null,
+    "dane_code": 5138,
+    "departament_id": 2
+  },
+  {
+    "name": "Caracolí",
+    "iso_3166_3": null,
+    "dane_code": 5142,
+    "departament_id": 2
+  },
+  {
+    "name": "Caramanta",
+    "iso_3166_3": null,
+    "dane_code": 5145,
+    "departament_id": 2
+  },
+  {
+    "name": "Carepa",
+    "iso_3166_3": null,
+    "dane_code": 5147,
+    "departament_id": 2
+  },
+  {
+    "name": "Carolina",
+    "iso_3166_3": null,
+    "dane_code": 515,
+    "departament_id": 2
+  },
+  {
+    "name": "12sia",
+    "iso_3166_3": null,
+    "dane_code": 5154,
+    "departament_id": 2
+  },
+  {
+    "name": "Chigorodó",
+    "iso_3166_3": null,
+    "dane_code": 5172,
+    "departament_id": 2
+  },
+  {
+    "name": "Cisneros",
+    "iso_3166_3": null,
+    "dane_code": 519,
+    "departament_id": 2
+  },
+  {
+    "name": "Cocorná",
+    "iso_3166_3": null,
+    "dane_code": 5197,
+    "departament_id": 2
+  },
+  {
+    "name": "Concepción",
+    "iso_3166_3": null,
+    "dane_code": 5206,
+    "departament_id": 2
+  },
+  {
+    "name": "Concordia",
+    "iso_3166_3": null,
+    "dane_code": 5209,
+    "departament_id": 2
+  },
+  {
+    "name": "Copacabana",
+    "iso_3166_3": null,
+    "dane_code": 5212,
+    "departament_id": 2
+  },
+  {
+    "name": "Dabeiba",
+    "iso_3166_3": null,
+    "dane_code": 5234,
+    "departament_id": 2
+  },
+  {
+    "name": "Don Matías",
+    "iso_3166_3": null,
+    "dane_code": 5237,
+    "departament_id": 2
+  },
+  {
+    "name": "Ebéjico",
+    "iso_3166_3": null,
+    "dane_code": 524,
+    "departament_id": 2
+  },
+  {
+    "name": "El Bagre",
+    "iso_3166_3": null,
+    "dane_code": 525,
+    "departament_id": 2
+  },
+  {
+    "name": "Entrerrios",
+    "iso_3166_3": null,
+    "dane_code": 5264,
+    "departament_id": 2
+  },
+  {
+    "name": "Envigado",
+    "iso_3166_3": null,
+    "dane_code": 5266,
+    "departament_id": 2
+  },
+  {
+    "name": "Fredonia",
+    "iso_3166_3": null,
+    "dane_code": 5282,
+    "departament_id": 2
+  },
+  {
+    "name": "Giraldo",
+    "iso_3166_3": null,
+    "dane_code": 5306,
+    "departament_id": 2
+  },
+  {
+    "name": "Girardota",
+    "iso_3166_3": null,
+    "dane_code": 5308,
+    "departament_id": 2
+  },
+  {
+    "name": "Gómez Plata",
+    "iso_3166_3": null,
+    "dane_code": 531,
+    "departament_id": 2
+  },
+  {
+    "name": "Guadalupe",
+    "iso_3166_3": null,
+    "dane_code": 5315,
+    "departament_id": 2
+  },
+  {
+    "name": "Guarne",
+    "iso_3166_3": null,
+    "dane_code": 5318,
+    "departament_id": 2
+  },
+  {
+    "name": "Guatapé",
+    "iso_3166_3": null,
+    "dane_code": 5321,
+    "departament_id": 2
+  },
+  {
+    "name": "Heliconia",
+    "iso_3166_3": null,
+    "dane_code": 5347,
+    "departament_id": 2
+  },
+  {
+    "name": "Hispania",
+    "iso_3166_3": null,
+    "dane_code": 5353,
+    "departament_id": 2
+  },
+  {
+    "name": "Itagui",
+    "iso_3166_3": null,
+    "dane_code": 536,
+    "departament_id": 2
+  },
+  {
+    "name": "Ituango",
+    "iso_3166_3": null,
+    "dane_code": 5361,
+    "departament_id": 2
+  },
+  {
+    "name": "Jericó",
+    "iso_3166_3": null,
+    "dane_code": 5368,
+    "departament_id": 2
+  },
+  {
+    "name": "La Ceja",
+    "iso_3166_3": null,
+    "dane_code": 5376,
+    "departament_id": 2
+  },
+  {
+    "name": "La Estrella",
+    "iso_3166_3": null,
+    "dane_code": 538,
+    "departament_id": 2
+  },
+  {
+    "name": "La Pintada",
+    "iso_3166_3": null,
+    "dane_code": 539,
+    "departament_id": 2
+  },
+  {
+    "name": "La Unión",
+    "iso_3166_3": null,
+    "dane_code": 54,
+    "departament_id": 2
+  },
+  {
+    "name": "Liborina",
+    "iso_3166_3": null,
+    "dane_code": 5411,
+    "departament_id": 2
+  },
+  {
+    "name": "Maceo",
+    "iso_3166_3": null,
+    "dane_code": 5425,
+    "departament_id": 2
+  },
+  {
+    "name": "Marinilla",
+    "iso_3166_3": null,
+    "dane_code": 544,
+    "departament_id": 2
+  },
+  {
+    "name": "Montebello",
+    "iso_3166_3": null,
+    "dane_code": 5467,
+    "departament_id": 2
+  },
+  {
+    "name": "Murindó",
+    "iso_3166_3": null,
+    "dane_code": 5475,
+    "departament_id": 2
+  },
+  {
+    "name": "Mutatá",
+    "iso_3166_3": null,
+    "dane_code": 548,
+    "departament_id": 2
+  },
+  {
+    "name": "Nariño",
+    "iso_3166_3": null,
+    "dane_code": 5483,
+    "departament_id": 2
+  },
+  {
+    "name": "Necoclí",
+    "iso_3166_3": null,
+    "dane_code": 549,
+    "departament_id": 2
+  },
+  {
+    "name": "Nechí",
+    "iso_3166_3": null,
+    "dane_code": 5495,
+    "departament_id": 2
+  },
+  {
+    "name": "Olaya",
+    "iso_3166_3": null,
+    "dane_code": 5501,
+    "departament_id": 2
+  },
+  {
+    "name": "Peñol",
+    "iso_3166_3": null,
+    "dane_code": 5541,
+    "departament_id": 2
+  },
+  {
+    "name": "Peque",
+    "iso_3166_3": null,
+    "dane_code": 5543,
+    "departament_id": 2
+  },
+  {
+    "name": "Pueblorrico",
+    "iso_3166_3": null,
+    "dane_code": 5576,
+    "departament_id": 2
+  },
+  {
+    "name": "Puerto Berrío",
+    "iso_3166_3": null,
+    "dane_code": 5579,
+    "departament_id": 2
+  },
+  {
+    "name": "Puerto Nare",
+    "iso_3166_3": null,
+    "dane_code": 5585,
+    "departament_id": 2
+  },
+  {
+    "name": "Puerto Triunfo",
+    "iso_3166_3": null,
+    "dane_code": 5591,
+    "departament_id": 2
+  },
+  {
+    "name": "Remedios",
+    "iso_3166_3": null,
+    "dane_code": 5604,
+    "departament_id": 2
+  },
+  {
+    "name": "Retiro",
+    "iso_3166_3": null,
+    "dane_code": 5607,
+    "departament_id": 2
+  },
+  {
+    "name": "Rionegro",
+    "iso_3166_3": null,
+    "dane_code": 5615,
+    "departament_id": 2
+  },
+  {
+    "name": "Sabanalarga",
+    "iso_3166_3": null,
+    "dane_code": 5628,
+    "departament_id": 2
+  },
+  {
+    "name": "Sabaneta",
+    "iso_3166_3": null,
+    "dane_code": 5631,
+    "departament_id": 2
+  },
+  {
+    "name": "Salgar",
+    "iso_3166_3": null,
+    "dane_code": 5642,
+    "departament_id": 2
+  },
+  {
+    "name": "San Francisco",
+    "iso_3166_3": null,
+    "dane_code": 5652,
+    "departament_id": 2
+  },
+  {
+    "name": "San Jerónimo",
+    "iso_3166_3": null,
+    "dane_code": 5656,
+    "departament_id": 2
+  },
+  {
+    "name": "San Luis",
+    "iso_3166_3": null,
+    "dane_code": 566,
+    "departament_id": 2
+  },
+  {
+    "name": "San Pedro",
+    "iso_3166_3": null,
+    "dane_code": 5664,
+    "departament_id": 2
+  },
+  {
+    "name": "San Rafael",
+    "iso_3166_3": null,
+    "dane_code": 5667,
+    "departament_id": 2
+  },
+  {
+    "name": "San Roque",
+    "iso_3166_3": null,
+    "dane_code": 567,
+    "departament_id": 2
+  },
+  {
+    "name": "San Vicente",
+    "iso_3166_3": null,
+    "dane_code": 5674,
+    "departament_id": 2
+  },
+  {
+    "name": "Santa Bárbara",
+    "iso_3166_3": null,
+    "dane_code": 5679,
+    "departament_id": 2
+  },
+  {
+    "name": "Santo Domingo",
+    "iso_3166_3": null,
+    "dane_code": 569,
+    "departament_id": 2
+  },
+  {
+    "name": "El Santuario",
+    "iso_3166_3": null,
+    "dane_code": 5697,
+    "departament_id": 2
+  },
+  {
+    "name": "Segovia",
+    "iso_3166_3": null,
+    "dane_code": 5736,
+    "departament_id": 2
+  },
+  {
+    "name": "Sopetrán",
+    "iso_3166_3": null,
+    "dane_code": 5761,
+    "departament_id": 2
+  },
+  {
+    "name": "Támesis",
+    "iso_3166_3": null,
+    "dane_code": 5789,
+    "departament_id": 2
+  },
+  {
+    "name": "Tarazá",
+    "iso_3166_3": null,
+    "dane_code": 579,
+    "departament_id": 2
+  },
+  {
+    "name": "Tarso",
+    "iso_3166_3": null,
+    "dane_code": 5792,
+    "departament_id": 2
+  },
+  {
+    "name": "Titiribí",
+    "iso_3166_3": null,
+    "dane_code": 5809,
+    "departament_id": 2
+  },
+  {
+    "name": "Toledo",
+    "iso_3166_3": null,
+    "dane_code": 5819,
+    "departament_id": 2
+  },
+  {
+    "name": "Turbo",
+    "iso_3166_3": null,
+    "dane_code": 5837,
+    "departament_id": 2
+  },
+  {
+    "name": "Uramita",
+    "iso_3166_3": null,
+    "dane_code": 5842,
+    "departament_id": 2
+  },
+  {
+    "name": "Urrao",
+    "iso_3166_3": null,
+    "dane_code": 5847,
+    "departament_id": 2
+  },
+  {
+    "name": "Valdivia",
+    "iso_3166_3": null,
+    "dane_code": 5854,
+    "departament_id": 2
+  },
+  {
+    "name": "Valparaíso",
+    "iso_3166_3": null,
+    "dane_code": 5856,
+    "departament_id": 2
+  },
+  {
+    "name": "Vegachí",
+    "iso_3166_3": null,
+    "dane_code": 5858,
+    "departament_id": 2
+  },
+  {
+    "name": "Venecia",
+    "iso_3166_3": null,
+    "dane_code": 5861,
+    "departament_id": 2
+  },
+  {
+    "name": "Yalí",
+    "iso_3166_3": null,
+    "dane_code": 5885,
+    "departament_id": 2
+  },
+  {
+    "name": "Yarumal",
+    "iso_3166_3": null,
+    "dane_code": 5887,
+    "departament_id": 2
+  },
+  {
+    "name": "Yolombó",
+    "iso_3166_3": null,
+    "dane_code": 589,
+    "departament_id": 2
+  },
+  {
+    "name": "Yondó",
+    "iso_3166_3": null,
+    "dane_code": 5893,
+    "departament_id": 2
+  },
+  {
+    "name": "Zaragoza",
+    "iso_3166_3": null,
+    "dane_code": 5895,
+    "departament_id": 2
+  },
+  {
+    "name": "Frontino",
+    "iso_3166_3": null,
+    "dane_code": 5284,
+    "departament_id": 2
+  },
+  {
+    "name": "Granada",
+    "iso_3166_3": null,
+    "dane_code": 5313,
+    "departament_id": 2
+  },
+  {
+    "name": "Jardín",
+    "iso_3166_3": null,
+    "dane_code": 5364,
+    "departament_id": 2
+  },
+  {
+    "name": "Sonsón",
+    "iso_3166_3": null,
+    "dane_code": 5756,
+    "departament_id": 2
+  },
+  {
+    "name": "Belmira",
+    "iso_3166_3": null,
+    "dane_code": 5086,
+    "departament_id": 2
+  },
+  {
+    "name": "San Pedro de Uraba",
+    "iso_3166_3": null,
+    "dane_code": 5665,
+    "departament_id": 2
+  },
+  {
+    "name": "Santafé de Antioquia",
+    "iso_3166_3": null,
+    "dane_code": 5042,
+    "departament_id": 2
+  },
+  {
+    "name": "Santa Rosa de Osos",
+    "iso_3166_3": null,
+    "dane_code": 5686,
+    "departament_id": 2
+  },
+  {
+    "name": "San Andrés de Cuerquía",
+    "iso_3166_3": null,
+    "dane_code": 5647,
+    "departament_id": 2
+  },
+  {
+    "name": "Vigía del Fuerte",
+    "iso_3166_3": null,
+    "dane_code": 5873,
+    "departament_id": 2
+  },
+  {
+    "name": "San José de La Montaña",
+    "iso_3166_3": null,
+    "dane_code": 5658,
+    "departament_id": 2
+  },
+  {
+    "name": "San Juan de Urabá",
+    "iso_3166_3": null,
+    "dane_code": 5659,
+    "departament_id": 2
+  },
+  {
+    "name": "El Carmen de Viboral",
+    "iso_3166_3": null,
+    "dane_code": 5148,
+    "departament_id": 2
+  },
+  {
+    "name": "San Carlos",
+    "iso_3166_3": null,
+    "dane_code": 5649,
+    "departament_id": 2
+  },
+  {
+    "name": "Arauquita",
+    "iso_3166_3": null,
+    "dane_code": 81065,
+    "departament_id": 3
+  },
+  {
+    "name": "Cravo Norte",
+    "iso_3166_3": null,
+    "dane_code": 8122,
+    "departament_id": 3
+  },
+  {
+    "name": "Fortul",
+    "iso_3166_3": null,
+    "dane_code": 813,
+    "departament_id": 3
+  },
+  {
+    "name": "Puerto Rondón",
+    "iso_3166_3": null,
+    "dane_code": 81591,
+    "departament_id": 3
+  },
+  {
+    "name": "Saravena",
+    "iso_3166_3": null,
+    "dane_code": 81736,
+    "departament_id": 3
+  },
+  {
+    "name": "Tame",
+    "iso_3166_3": null,
+    "dane_code": 81794,
+    "departament_id": 3
+  },
+  {
+    "name": "Arauca",
+    "iso_3166_3": null,
+    "dane_code": 81001,
+    "departament_id": 3
+  },
+  {
+    "name": "Providencia",
+    "iso_3166_3": null,
+    "dane_code": 88564,
+    "departament_id": 4
+  },
+  {
+    "name": "San Andrés",
+    "iso_3166_3": null,
+    "dane_code": 88001,
+    "departament_id": 4
+  },
+  {
+    "name": "Barranquilla",
+    "iso_3166_3": null,
+    "dane_code": 8001,
+    "departament_id": 5
+  },
+  {
+    "name": "Baranoa",
+    "iso_3166_3": null,
+    "dane_code": 8078,
+    "departament_id": 5
+  },
+  {
+    "name": "Candelaria",
+    "iso_3166_3": null,
+    "dane_code": 8141,
+    "departament_id": 5
+  },
+  {
+    "name": "Galapa",
+    "iso_3166_3": null,
+    "dane_code": 8296,
+    "departament_id": 5
+  },
+  {
+    "name": "Luruaco",
+    "iso_3166_3": null,
+    "dane_code": 8421,
+    "departament_id": 5
+  },
+  {
+    "name": "Malambo",
+    "iso_3166_3": null,
+    "dane_code": 8433,
+    "departament_id": 5
+  },
+  {
+    "name": "Manatí",
+    "iso_3166_3": null,
+    "dane_code": 8436,
+    "departament_id": 5
+  },
+  {
+    "name": "Piojó",
+    "iso_3166_3": null,
+    "dane_code": 8549,
+    "departament_id": 5
+  },
+  {
+    "name": "Polonuevo",
+    "iso_3166_3": null,
+    "dane_code": 8558,
+    "departament_id": 5
+  },
+  {
+    "name": "Sabanagrande",
+    "iso_3166_3": null,
+    "dane_code": 8634,
+    "departament_id": 5
+  },
+  {
+    "name": "Sabanalarga",
+    "iso_3166_3": null,
+    "dane_code": 8638,
+    "departament_id": 5
+  },
+  {
+    "name": "Santa Lucía",
+    "iso_3166_3": null,
+    "dane_code": 8675,
+    "departament_id": 5
+  },
+  {
+    "name": "Santo Tomás",
+    "iso_3166_3": null,
+    "dane_code": 8685,
+    "departament_id": 5
+  },
+  {
+    "name": "Soledad",
+    "iso_3166_3": null,
+    "dane_code": 8758,
+    "departament_id": 5
+  },
+  {
+    "name": "Suan",
+    "iso_3166_3": null,
+    "dane_code": 877,
+    "departament_id": 5
+  },
+  {
+    "name": "Tubará",
+    "iso_3166_3": null,
+    "dane_code": 8832,
+    "departament_id": 5
+  },
+  {
+    "name": "Usiacurí",
+    "iso_3166_3": null,
+    "dane_code": 8849,
+    "departament_id": 5
+  },
+  {
+    "name": "Repelón",
+    "iso_3166_3": null,
+    "dane_code": 8606,
+    "departament_id": 5
+  },
+  {
+    "name": "Puerto Colombia",
+    "iso_3166_3": null,
+    "dane_code": 8573,
+    "departament_id": 5
+  },
+  {
+    "name": "Ponedera",
+    "iso_3166_3": null,
+    "dane_code": 856,
+    "departament_id": 5
+  },
+  {
+    "name": "Juan de Acosta",
+    "iso_3166_3": null,
+    "dane_code": 8372,
+    "departament_id": 5
+  },
+  {
+    "name": "Palmar de Varela",
+    "iso_3166_3": null,
+    "dane_code": 852,
+    "departament_id": 5
+  },
+  {
+    "name": "Campo de La Cruz",
+    "iso_3166_3": null,
+    "dane_code": 8137,
+    "departament_id": 5
+  },
+  {
+    "name": "Bogotá D.C.",
+    "iso_3166_3": null,
+    "dane_code": 11001,
+    "departament_id": 6
+  },
+  {
+    "name": "El Peñón",
+    "iso_3166_3": null,
+    "dane_code": 13268,
+    "departament_id": 7
+  },
+  {
+    "name": "Achí",
+    "iso_3166_3": null,
+    "dane_code": 13006,
+    "departament_id": 7
+  },
+  {
+    "name": "Arenal",
+    "iso_3166_3": null,
+    "dane_code": 13042,
+    "departament_id": 7
+  },
+  {
+    "name": "Arjona",
+    "iso_3166_3": null,
+    "dane_code": 13052,
+    "departament_id": 7
+  },
+  {
+    "name": "Arroyohondo",
+    "iso_3166_3": null,
+    "dane_code": 13062,
+    "departament_id": 7
+  },
+  {
+    "name": "Calamar",
+    "iso_3166_3": null,
+    "dane_code": 1314,
+    "departament_id": 7
+  },
+  {
+    "name": "Cantagallo",
+    "iso_3166_3": null,
+    "dane_code": 1316,
+    "departament_id": 7
+  },
+  {
+    "name": "Cicuco",
+    "iso_3166_3": null,
+    "dane_code": 13188,
+    "departament_id": 7
+  },
+  {
+    "name": "Córdoba",
+    "iso_3166_3": null,
+    "dane_code": 13212,
+    "departament_id": 7
+  },
+  {
+    "name": "Clemencia",
+    "iso_3166_3": null,
+    "dane_code": 13222,
+    "departament_id": 7
+  },
+  {
+    "name": "El Guamo",
+    "iso_3166_3": null,
+    "dane_code": 13248,
+    "departament_id": 7
+  },
+  {
+    "name": "Magangué",
+    "iso_3166_3": null,
+    "dane_code": 1343,
+    "departament_id": 7
+  },
+  {
+    "name": "Mahates",
+    "iso_3166_3": null,
+    "dane_code": 13433,
+    "departament_id": 7
+  },
+  {
+    "name": "Margarita",
+    "iso_3166_3": null,
+    "dane_code": 1344,
+    "departament_id": 7
+  },
+  {
+    "name": "Montecristo",
+    "iso_3166_3": null,
+    "dane_code": 13458,
+    "departament_id": 7
+  },
+  {
+    "name": "Mompós",
+    "iso_3166_3": null,
+    "dane_code": 13468,
+    "departament_id": 7
+  },
+  {
+    "name": "Morales",
+    "iso_3166_3": null,
+    "dane_code": 13473,
+    "departament_id": 7
+  },
+  {
+    "name": "Norosí",
+    "iso_3166_3": null,
+    "dane_code": 1349,
+    "departament_id": 7
+  },
+  {
+    "name": "Pinillos",
+    "iso_3166_3": null,
+    "dane_code": 13549,
+    "departament_id": 7
+  },
+  {
+    "name": "Regidor",
+    "iso_3166_3": null,
+    "dane_code": 1358,
+    "departament_id": 7
+  },
+  {
+    "name": "Río Viejo",
+    "iso_3166_3": null,
+    "dane_code": 136,
+    "departament_id": 7
+  },
+  {
+    "name": "San Estanislao",
+    "iso_3166_3": null,
+    "dane_code": 13647,
+    "departament_id": 7
+  },
+  {
+    "name": "San Fernando",
+    "iso_3166_3": null,
+    "dane_code": 1365,
+    "departament_id": 7
+  },
+  {
+    "name": "San Juan Nepomuceno",
+    "iso_3166_3": null,
+    "dane_code": 13657,
+    "departament_id": 7
+  },
+  {
+    "name": "Santa Catalina",
+    "iso_3166_3": null,
+    "dane_code": 13673,
+    "departament_id": 7
+  },
+  {
+    "name": "Santa Rosa",
+    "iso_3166_3": null,
+    "dane_code": 13683,
+    "departament_id": 7
+  },
+  {
+    "name": "Simití",
+    "iso_3166_3": null,
+    "dane_code": 13744,
+    "departament_id": 7
+  },
+  {
+    "name": "Soplaviento",
+    "iso_3166_3": null,
+    "dane_code": 1376,
+    "departament_id": 7
+  },
+  {
+    "name": "Talaigua Nuevo",
+    "iso_3166_3": null,
+    "dane_code": 1378,
+    "departament_id": 7
+  },
+  {
+    "name": "Tiquisio",
+    "iso_3166_3": null,
+    "dane_code": 1381,
+    "departament_id": 7
+  },
+  {
+    "name": "Turbaco",
+    "iso_3166_3": null,
+    "dane_code": 13836,
+    "departament_id": 7
+  },
+  {
+    "name": "Turbaná",
+    "iso_3166_3": null,
+    "dane_code": 13838,
+    "departament_id": 7
+  },
+  {
+    "name": "Villanueva",
+    "iso_3166_3": null,
+    "dane_code": 13873,
+    "departament_id": 7
+  },
+  {
+    "name": "Cartagena",
+    "iso_3166_3": null,
+    "dane_code": 13001,
+    "departament_id": 7
+  },
+  {
+    "name": "María la Baja",
+    "iso_3166_3": null,
+    "dane_code": 13442,
+    "departament_id": 7
+  },
+  {
+    "name": "San Cristóbal",
+    "iso_3166_3": null,
+    "dane_code": 1362,
+    "departament_id": 7
+  },
+  {
+    "name": "Zambrano",
+    "iso_3166_3": null,
+    "dane_code": 13894,
+    "departament_id": 7
+  },
+  {
+    "name": "Barranco de Loba",
+    "iso_3166_3": null,
+    "dane_code": 13074,
+    "departament_id": 7
+  },
+  {
+    "name": "Santa Rosa del Sur",
+    "iso_3166_3": null,
+    "dane_code": 13688,
+    "departament_id": 7
+  },
+  {
+    "name": "Hatillo de Loba",
+    "iso_3166_3": null,
+    "dane_code": 133,
+    "departament_id": 7
+  },
+  {
+    "name": "El Carmen de Bolívar",
+    "iso_3166_3": null,
+    "dane_code": 13244,
+    "departament_id": 7
+  },
+  {
+    "name": "San Martín de Loba",
+    "iso_3166_3": null,
+    "dane_code": 13667,
+    "departament_id": 7
+  },
+  {
+    "name": "Altos del Rosario",
+    "iso_3166_3": null,
+    "dane_code": 1303,
+    "departament_id": 7
+  },
+  {
+    "name": "San Jacinto del 12",
+    "iso_3166_3": null,
+    "dane_code": 13655,
+    "departament_id": 7
+  },
+  {
+    "name": "San Pablo de Borbur",
+    "iso_3166_3": null,
+    "dane_code": 1367,
+    "departament_id": 7
+  },
+  {
+    "name": "San Jacinto",
+    "iso_3166_3": null,
+    "dane_code": 13654,
+    "departament_id": 7
+  },
+  {
+    "name": "Tibasosa",
+    "iso_3166_3": null,
+    "dane_code": 15806,
+    "departament_id": 8
+  },
+  {
+    "name": "Tunja",
+    "iso_3166_3": null,
+    "dane_code": 15001,
+    "departament_id": 8
+  },
+  {
+    "name": "Almeida",
+    "iso_3166_3": null,
+    "dane_code": 15022,
+    "departament_id": 8
+  },
+  {
+    "name": "Aquitania",
+    "iso_3166_3": null,
+    "dane_code": 15047,
+    "departament_id": 8
+  },
+  {
+    "name": "Arcabuco",
+    "iso_3166_3": null,
+    "dane_code": 15051,
+    "departament_id": 8
+  },
+  {
+    "name": "Berbeo",
+    "iso_3166_3": null,
+    "dane_code": 1509,
+    "departament_id": 8
+  },
+  {
+    "name": "Betéitiva",
+    "iso_3166_3": null,
+    "dane_code": 15092,
+    "departament_id": 8
+  },
+  {
+    "name": "Boavita",
+    "iso_3166_3": null,
+    "dane_code": 15097,
+    "departament_id": 8
+  },
+  {
+    "name": "Boyacá",
+    "iso_3166_3": null,
+    "dane_code": 15104,
+    "departament_id": 8
+  },
+  {
+    "name": "Briceño",
+    "iso_3166_3": null,
+    "dane_code": 15106,
+    "departament_id": 8
+  },
+  {
+    "name": "Buena Vista",
+    "iso_3166_3": null,
+    "dane_code": 15109,
+    "departament_id": 8
+  },
+  {
+    "name": "Busbanzá",
+    "iso_3166_3": null,
+    "dane_code": 15114,
+    "departament_id": 8
+  },
+  {
+    "name": "Caldas",
+    "iso_3166_3": null,
+    "dane_code": 15131,
+    "departament_id": 8
+  },
+  {
+    "name": "Campohermoso",
+    "iso_3166_3": null,
+    "dane_code": 15135,
+    "departament_id": 8
+  },
+  {
+    "name": "Cerinza",
+    "iso_3166_3": null,
+    "dane_code": 15162,
+    "departament_id": 8
+  },
+  {
+    "name": "Chinavita",
+    "iso_3166_3": null,
+    "dane_code": 15172,
+    "departament_id": 8
+  },
+  {
+    "name": "Chiquinquirá",
+    "iso_3166_3": null,
+    "dane_code": 15176,
+    "departament_id": 8
+  },
+  {
+    "name": "Chiscas",
+    "iso_3166_3": null,
+    "dane_code": 1518,
+    "departament_id": 8
+  },
+  {
+    "name": "Chita",
+    "iso_3166_3": null,
+    "dane_code": 15183,
+    "departament_id": 8
+  },
+  {
+    "name": "Chitaraque",
+    "iso_3166_3": null,
+    "dane_code": 15185,
+    "departament_id": 8
+  },
+  {
+    "name": "Chivatá",
+    "iso_3166_3": null,
+    "dane_code": 15187,
+    "departament_id": 8
+  },
+  {
+    "name": "Cómbita",
+    "iso_3166_3": null,
+    "dane_code": 15204,
+    "departament_id": 8
+  },
+  {
+    "name": "Coper",
+    "iso_3166_3": null,
+    "dane_code": 15212,
+    "departament_id": 8
+  },
+  {
+    "name": "Corrales",
+    "iso_3166_3": null,
+    "dane_code": 15215,
+    "departament_id": 8
+  },
+  {
+    "name": "Covarachía",
+    "iso_3166_3": null,
+    "dane_code": 15218,
+    "departament_id": 8
+  },
+  {
+    "name": "Cubará",
+    "iso_3166_3": null,
+    "dane_code": 15223,
+    "departament_id": 8
+  },
+  {
+    "name": "Cucaita",
+    "iso_3166_3": null,
+    "dane_code": 15224,
+    "departament_id": 8
+  },
+  {
+    "name": "Cuítiva",
+    "iso_3166_3": null,
+    "dane_code": 15226,
+    "departament_id": 8
+  },
+  {
+    "name": "Chíquiza",
+    "iso_3166_3": null,
+    "dane_code": 15232,
+    "departament_id": 8
+  },
+  {
+    "name": "Chivor",
+    "iso_3166_3": null,
+    "dane_code": 15236,
+    "departament_id": 8
+  },
+  {
+    "name": "Duitama",
+    "iso_3166_3": null,
+    "dane_code": 15238,
+    "departament_id": 8
+  },
+  {
+    "name": "El Cocuy",
+    "iso_3166_3": null,
+    "dane_code": 15244,
+    "departament_id": 8
+  },
+  {
+    "name": "El Espino",
+    "iso_3166_3": null,
+    "dane_code": 15248,
+    "departament_id": 8
+  },
+  {
+    "name": "Firavitoba",
+    "iso_3166_3": null,
+    "dane_code": 15272,
+    "departament_id": 8
+  },
+  {
+    "name": "Floresta",
+    "iso_3166_3": null,
+    "dane_code": 15276,
+    "departament_id": 8
+  },
+  {
+    "name": "Gachantivá",
+    "iso_3166_3": null,
+    "dane_code": 15293,
+    "departament_id": 8
+  },
+  {
+    "name": "Gameza",
+    "iso_3166_3": null,
+    "dane_code": 15296,
+    "departament_id": 8
+  },
+  {
+    "name": "Garagoa",
+    "iso_3166_3": null,
+    "dane_code": 15299,
+    "departament_id": 8
+  },
+  {
+    "name": "Guacamayas",
+    "iso_3166_3": null,
+    "dane_code": 15317,
+    "departament_id": 8
+  },
+  {
+    "name": "Guateque",
+    "iso_3166_3": null,
+    "dane_code": 15322,
+    "departament_id": 8
+  },
+  {
+    "name": "Guayatá",
+    "iso_3166_3": null,
+    "dane_code": 15325,
+    "departament_id": 8
+  },
+  {
+    "name": "Güicán",
+    "iso_3166_3": null,
+    "dane_code": 15332,
+    "departament_id": 8
+  },
+  {
+    "name": "Iza",
+    "iso_3166_3": null,
+    "dane_code": 15362,
+    "departament_id": 8
+  },
+  {
+    "name": "Jenesano",
+    "iso_3166_3": null,
+    "dane_code": 15367,
+    "departament_id": 8
+  },
+  {
+    "name": "Jericó",
+    "iso_3166_3": null,
+    "dane_code": 15368,
+    "departament_id": 8
+  },
+  {
+    "name": "Labranzagrande",
+    "iso_3166_3": null,
+    "dane_code": 15377,
+    "departament_id": 8
+  },
+  {
+    "name": "La Capilla",
+    "iso_3166_3": null,
+    "dane_code": 1538,
+    "departament_id": 8
+  },
+  {
+    "name": "La Victoria",
+    "iso_3166_3": null,
+    "dane_code": 15401,
+    "departament_id": 8
+  },
+  {
+    "name": "Macanal",
+    "iso_3166_3": null,
+    "dane_code": 15425,
+    "departament_id": 8
+  },
+  {
+    "name": "Maripí",
+    "iso_3166_3": null,
+    "dane_code": 15442,
+    "departament_id": 8
+  },
+  {
+    "name": "Miraflores",
+    "iso_3166_3": null,
+    "dane_code": 15455,
+    "departament_id": 8
+  },
+  {
+    "name": "Mongua",
+    "iso_3166_3": null,
+    "dane_code": 15464,
+    "departament_id": 8
+  },
+  {
+    "name": "Monguí",
+    "iso_3166_3": null,
+    "dane_code": 15466,
+    "departament_id": 8
+  },
+  {
+    "name": "Moniquirá",
+    "iso_3166_3": null,
+    "dane_code": 15469,
+    "departament_id": 8
+  },
+  {
+    "name": "Muzo",
+    "iso_3166_3": null,
+    "dane_code": 1548,
+    "departament_id": 8
+  },
+  {
+    "name": "Nobsa",
+    "iso_3166_3": null,
+    "dane_code": 15491,
+    "departament_id": 8
+  },
+  {
+    "name": "Nuevo Colón",
+    "iso_3166_3": null,
+    "dane_code": 15494,
+    "departament_id": 8
+  },
+  {
+    "name": "Oicatá",
+    "iso_3166_3": null,
+    "dane_code": 155,
+    "departament_id": 8
+  },
+  {
+    "name": "Otanche",
+    "iso_3166_3": null,
+    "dane_code": 15507,
+    "departament_id": 8
+  },
+  {
+    "name": "Pachavita",
+    "iso_3166_3": null,
+    "dane_code": 15511,
+    "departament_id": 8
+  },
+  {
+    "name": "Páez",
+    "iso_3166_3": null,
+    "dane_code": 15514,
+    "departament_id": 8
+  },
+  {
+    "name": "Paipa",
+    "iso_3166_3": null,
+    "dane_code": 15516,
+    "departament_id": 8
+  },
+  {
+    "name": "Pajarito",
+    "iso_3166_3": null,
+    "dane_code": 15518,
+    "departament_id": 8
+  },
+  {
+    "name": "Panqueba",
+    "iso_3166_3": null,
+    "dane_code": 15522,
+    "departament_id": 8
+  },
+  {
+    "name": "Pauna",
+    "iso_3166_3": null,
+    "dane_code": 15531,
+    "departament_id": 8
+  },
+  {
+    "name": "Paya",
+    "iso_3166_3": null,
+    "dane_code": 15533,
+    "departament_id": 8
+  },
+  {
+    "name": "Pesca",
+    "iso_3166_3": null,
+    "dane_code": 15542,
+    "departament_id": 8
+  },
+  {
+    "name": "Pisba",
+    "iso_3166_3": null,
+    "dane_code": 1555,
+    "departament_id": 8
+  },
+  {
+    "name": "Puerto Boyacá",
+    "iso_3166_3": null,
+    "dane_code": 15572,
+    "departament_id": 8
+  },
+  {
+    "name": "Quípama",
+    "iso_3166_3": null,
+    "dane_code": 1558,
+    "departament_id": 8
+  },
+  {
+    "name": "Ramiriquí",
+    "iso_3166_3": null,
+    "dane_code": 15599,
+    "departament_id": 8
+  },
+  {
+    "name": "Ráquira",
+    "iso_3166_3": null,
+    "dane_code": 156,
+    "departament_id": 8
+  },
+  {
+    "name": "Rondón",
+    "iso_3166_3": null,
+    "dane_code": 15621,
+    "departament_id": 8
+  },
+  {
+    "name": "Saboyá",
+    "iso_3166_3": null,
+    "dane_code": 15632,
+    "departament_id": 8
+  },
+  {
+    "name": "Sáchica",
+    "iso_3166_3": null,
+    "dane_code": 15638,
+    "departament_id": 8
+  },
+  {
+    "name": "Samacá",
+    "iso_3166_3": null,
+    "dane_code": 15646,
+    "departament_id": 8
+  },
+  {
+    "name": "San Eduardo",
+    "iso_3166_3": null,
+    "dane_code": 1566,
+    "departament_id": 8
+  },
+  {
+    "name": "San Mateo",
+    "iso_3166_3": null,
+    "dane_code": 15673,
+    "departament_id": 8
+  },
+  {
+    "name": "Santana",
+    "iso_3166_3": null,
+    "dane_code": 15686,
+    "departament_id": 8
+  },
+  {
+    "name": "Santa María",
+    "iso_3166_3": null,
+    "dane_code": 1569,
+    "departament_id": 8
+  },
+  {
+    "name": "Santa Sofía",
+    "iso_3166_3": null,
+    "dane_code": 15696,
+    "departament_id": 8
+  },
+  {
+    "name": "Sativanorte",
+    "iso_3166_3": null,
+    "dane_code": 1572,
+    "departament_id": 8
+  },
+  {
+    "name": "Sativasur",
+    "iso_3166_3": null,
+    "dane_code": 15723,
+    "departament_id": 8
+  },
+  {
+    "name": "Siachoque",
+    "iso_3166_3": null,
+    "dane_code": 1574,
+    "departament_id": 8
+  },
+  {
+    "name": "Soatá",
+    "iso_3166_3": null,
+    "dane_code": 15753,
+    "departament_id": 8
+  },
+  {
+    "name": "Socotá",
+    "iso_3166_3": null,
+    "dane_code": 15755,
+    "departament_id": 8
+  },
+  {
+    "name": "Socha",
+    "iso_3166_3": null,
+    "dane_code": 15757,
+    "departament_id": 8
+  },
+  {
+    "name": "Sogamoso",
+    "iso_3166_3": null,
+    "dane_code": 15759,
+    "departament_id": 8
+  },
+  {
+    "name": "Somondoco",
+    "iso_3166_3": null,
+    "dane_code": 15761,
+    "departament_id": 8
+  },
+  {
+    "name": "Sora",
+    "iso_3166_3": null,
+    "dane_code": 15762,
+    "departament_id": 8
+  },
+  {
+    "name": "Sotaquirá",
+    "iso_3166_3": null,
+    "dane_code": 15763,
+    "departament_id": 8
+  },
+  {
+    "name": "Soracá",
+    "iso_3166_3": null,
+    "dane_code": 15764,
+    "departament_id": 8
+  },
+  {
+    "name": "Susacón",
+    "iso_3166_3": null,
+    "dane_code": 15774,
+    "departament_id": 8
+  },
+  {
+    "name": "Sutamarchán",
+    "iso_3166_3": null,
+    "dane_code": 15776,
+    "departament_id": 8
+  },
+  {
+    "name": "Sutatenza",
+    "iso_3166_3": null,
+    "dane_code": 15778,
+    "departament_id": 8
+  },
+  {
+    "name": "Tasco",
+    "iso_3166_3": null,
+    "dane_code": 1579,
+    "departament_id": 8
+  },
+  {
+    "name": "Tenza",
+    "iso_3166_3": null,
+    "dane_code": 15798,
+    "departament_id": 8
+  },
+  {
+    "name": "Tibaná",
+    "iso_3166_3": null,
+    "dane_code": 15804,
+    "departament_id": 8
+  },
+  {
+    "name": "Tinjacá",
+    "iso_3166_3": null,
+    "dane_code": 15808,
+    "departament_id": 8
+  },
+  {
+    "name": "Tipacoque",
+    "iso_3166_3": null,
+    "dane_code": 1581,
+    "departament_id": 8
+  },
+  {
+    "name": "Toca",
+    "iso_3166_3": null,
+    "dane_code": 15814,
+    "departament_id": 8
+  },
+  {
+    "name": "Tópaga",
+    "iso_3166_3": null,
+    "dane_code": 1582,
+    "departament_id": 8
+  },
+  {
+    "name": "Tota",
+    "iso_3166_3": null,
+    "dane_code": 15822,
+    "departament_id": 8
+  },
+  {
+    "name": "Turmequé",
+    "iso_3166_3": null,
+    "dane_code": 15835,
+    "departament_id": 8
+  },
+  {
+    "name": "Tutazá",
+    "iso_3166_3": null,
+    "dane_code": 15839,
+    "departament_id": 8
+  },
+  {
+    "name": "Umbita",
+    "iso_3166_3": null,
+    "dane_code": 15842,
+    "departament_id": 8
+  },
+  {
+    "name": "Ventaquemada",
+    "iso_3166_3": null,
+    "dane_code": 15861,
+    "departament_id": 8
+  },
+  {
+    "name": "Viracachá",
+    "iso_3166_3": null,
+    "dane_code": 15879,
+    "departament_id": 8
+  },
+  {
+    "name": "Zetaquira",
+    "iso_3166_3": null,
+    "dane_code": 15897,
+    "departament_id": 8
+  },
+  {
+    "name": "La Uvita",
+    "iso_3166_3": null,
+    "dane_code": 15403,
+    "departament_id": 8
+  },
+  {
+    "name": "Belén",
+    "iso_3166_3": null,
+    "dane_code": 15087,
+    "departament_id": 8
+  },
+  {
+    "name": "Tununguá",
+    "iso_3166_3": null,
+    "dane_code": 15832,
+    "departament_id": 8
+  },
+  {
+    "name": "Motavita",
+    "iso_3166_3": null,
+    "dane_code": 15476,
+    "departament_id": 8
+  },
+  {
+    "name": "Ciénega",
+    "iso_3166_3": null,
+    "dane_code": 15189,
+    "departament_id": 8
+  },
+  {
+    "name": "Togüí",
+    "iso_3166_3": null,
+    "dane_code": 15816,
+    "departament_id": 8
+  },
+  {
+    "name": "Villa de Leyva",
+    "iso_3166_3": null,
+    "dane_code": 15407,
+    "departament_id": 8
+  },
+  {
+    "name": "Paz de Río",
+    "iso_3166_3": null,
+    "dane_code": 15537,
+    "departament_id": 8
+  },
+  {
+    "name": "Santa Rosa de Viterbo",
+    "iso_3166_3": null,
+    "dane_code": 15693,
+    "departament_id": 8
+  },
+  {
+    "name": "San Pablo de Borbur",
+    "iso_3166_3": null,
+    "dane_code": 15681,
+    "departament_id": 8
+  },
+  {
+    "name": "San Luis de Gaceno",
+    "iso_3166_3": null,
+    "dane_code": 15667,
+    "departament_id": 8
+  },
+  {
+    "name": "San José de Pare",
+    "iso_3166_3": null,
+    "dane_code": 15664,
+    "departament_id": 8
+  },
+  {
+    "name": "San Miguel de Sema",
+    "iso_3166_3": null,
+    "dane_code": 15676,
+    "departament_id": 8
+  },
+  {
+    "name": "Tuta",
+    "iso_3166_3": null,
+    "dane_code": 15837,
+    "departament_id": 8
+  },
+  {
+    "name": "Manizales",
+    "iso_3166_3": null,
+    "dane_code": 17001,
+    "departament_id": 9
+  },
+  {
+    "name": "Aguadas",
+    "iso_3166_3": null,
+    "dane_code": 17013,
+    "departament_id": 9
+  },
+  {
+    "name": "Anserma",
+    "iso_3166_3": null,
+    "dane_code": 17042,
+    "departament_id": 9
+  },
+  {
+    "name": "Aranzazu",
+    "iso_3166_3": null,
+    "dane_code": 1705,
+    "departament_id": 9
+  },
+  {
+    "name": "Belalcázar",
+    "iso_3166_3": null,
+    "dane_code": 17088,
+    "departament_id": 9
+  },
+  {
+    "name": "Chinchiná",
+    "iso_3166_3": null,
+    "dane_code": 17174,
+    "departament_id": 9
+  },
+  {
+    "name": "Filadelfia",
+    "iso_3166_3": null,
+    "dane_code": 17272,
+    "departament_id": 9
+  },
+  {
+    "name": "La Dorada",
+    "iso_3166_3": null,
+    "dane_code": 1738,
+    "departament_id": 9
+  },
+  {
+    "name": "La Merced",
+    "iso_3166_3": null,
+    "dane_code": 17388,
+    "departament_id": 9
+  },
+  {
+    "name": "Manzanares",
+    "iso_3166_3": null,
+    "dane_code": 17433,
+    "departament_id": 9
+  },
+  {
+    "name": "Marmato",
+    "iso_3166_3": null,
+    "dane_code": 17442,
+    "departament_id": 9
+  },
+  {
+    "name": "Marulanda",
+    "iso_3166_3": null,
+    "dane_code": 17446,
+    "departament_id": 9
+  },
+  {
+    "name": "Neira",
+    "iso_3166_3": null,
+    "dane_code": 17486,
+    "departament_id": 9
+  },
+  {
+    "name": "Norcasia",
+    "iso_3166_3": null,
+    "dane_code": 17495,
+    "departament_id": 9
+  },
+  {
+    "name": "Pácora",
+    "iso_3166_3": null,
+    "dane_code": 17513,
+    "departament_id": 9
+  },
+  {
+    "name": "Palestina",
+    "iso_3166_3": null,
+    "dane_code": 17524,
+    "departament_id": 9
+  },
+  {
+    "name": "Pensilvania",
+    "iso_3166_3": null,
+    "dane_code": 17541,
+    "departament_id": 9
+  },
+  {
+    "name": "Riosucio",
+    "iso_3166_3": null,
+    "dane_code": 17614,
+    "departament_id": 9
+  },
+  {
+    "name": "Risaralda",
+    "iso_3166_3": null,
+    "dane_code": 17616,
+    "departament_id": 9
+  },
+  {
+    "name": "Salamina",
+    "iso_3166_3": null,
+    "dane_code": 17653,
+    "departament_id": 9
+  },
+  {
+    "name": "Samaná",
+    "iso_3166_3": null,
+    "dane_code": 17662,
+    "departament_id": 9
+  },
+  {
+    "name": "San José",
+    "iso_3166_3": null,
+    "dane_code": 17665,
+    "departament_id": 9
+  },
+  {
+    "name": "Supía",
+    "iso_3166_3": null,
+    "dane_code": 17777,
+    "departament_id": 9
+  },
+  {
+    "name": "Victoria",
+    "iso_3166_3": null,
+    "dane_code": 17867,
+    "departament_id": 9
+  },
+  {
+    "name": "Villamaría",
+    "iso_3166_3": null,
+    "dane_code": 17873,
+    "departament_id": 9
+  },
+  {
+    "name": "Viterbo",
+    "iso_3166_3": null,
+    "dane_code": 17877,
+    "departament_id": 9
+  },
+  {
+    "name": "Marquetalia",
+    "iso_3166_3": null,
+    "dane_code": 17444,
+    "departament_id": 9
+  },
+  {
+    "name": "Milán",
+    "iso_3166_3": null,
+    "dane_code": 1846,
+    "departament_id": 10
+  },
+  {
+    "name": "Florencia",
+    "iso_3166_3": null,
+    "dane_code": 18001,
+    "departament_id": 10
+  },
+  {
+    "name": "Albania",
+    "iso_3166_3": null,
+    "dane_code": 18029,
+    "departament_id": 10
+  },
+  {
+    "name": "Curillo",
+    "iso_3166_3": null,
+    "dane_code": 18205,
+    "departament_id": 10
+  },
+  {
+    "name": "El Doncello",
+    "iso_3166_3": null,
+    "dane_code": 18247,
+    "departament_id": 10
+  },
+  {
+    "name": "El Paujil",
+    "iso_3166_3": null,
+    "dane_code": 18256,
+    "departament_id": 10
+  },
+  {
+    "name": "Morelia",
+    "iso_3166_3": null,
+    "dane_code": 18479,
+    "departament_id": 10
+  },
+  {
+    "name": "Puerto Rico",
+    "iso_3166_3": null,
+    "dane_code": 18592,
+    "departament_id": 10
+  },
+  {
+    "name": "La Montañita",
+    "iso_3166_3": null,
+    "dane_code": 1841,
+    "departament_id": 10
+  },
+  {
+    "name": "San Vicente del Caguán",
+    "iso_3166_3": null,
+    "dane_code": 18753,
+    "departament_id": 10
+  },
+  {
+    "name": "Solano",
+    "iso_3166_3": null,
+    "dane_code": 18756,
+    "departament_id": 10
+  },
+  {
+    "name": "Solita",
+    "iso_3166_3": null,
+    "dane_code": 18785,
+    "departament_id": 10
+  },
+  {
+    "name": "Valparaíso",
+    "iso_3166_3": null,
+    "dane_code": 1886,
+    "departament_id": 10
+  },
+  {
+    "name": "San José del Fragua",
+    "iso_3166_3": null,
+    "dane_code": 1861,
+    "departament_id": 10
+  },
+  {
+    "name": "Belén de Los Andaquies",
+    "iso_3166_3": null,
+    "dane_code": 18094,
+    "departament_id": 10
+  },
+  {
+    "name": "Cartagena del Chairá",
+    "iso_3166_3": null,
+    "dane_code": 1815,
+    "departament_id": 10
+  },
+  {
+    "name": "Nunchía",
+    "iso_3166_3": null,
+    "dane_code": 85225,
+    "departament_id": 11
+  },
+  {
+    "name": "Maní",
+    "iso_3166_3": null,
+    "dane_code": 85139,
+    "departament_id": 11
+  },
+  {
+    "name": "Támara",
+    "iso_3166_3": null,
+    "dane_code": 854,
+    "departament_id": 11
+  },
+  {
+    "name": "Orocué",
+    "iso_3166_3": null,
+    "dane_code": 8523,
+    "departament_id": 11
+  },
+  {
+    "name": "Yopal",
+    "iso_3166_3": null,
+    "dane_code": 85001,
+    "departament_id": 11
+  },
+  {
+    "name": "Aguazul",
+    "iso_3166_3": null,
+    "dane_code": 8501,
+    "departament_id": 11
+  },
+  {
+    "name": "Chámeza",
+    "iso_3166_3": null,
+    "dane_code": 85015,
+    "departament_id": 11
+  },
+  {
+    "name": "Hato Corozal",
+    "iso_3166_3": null,
+    "dane_code": 85125,
+    "departament_id": 11
+  },
+  {
+    "name": "La Salina",
+    "iso_3166_3": null,
+    "dane_code": 85136,
+    "departament_id": 11
+  },
+  {
+    "name": "Monterrey",
+    "iso_3166_3": null,
+    "dane_code": 85162,
+    "departament_id": 11
+  },
+  {
+    "name": "Pore",
+    "iso_3166_3": null,
+    "dane_code": 85263,
+    "departament_id": 11
+  },
+  {
+    "name": "Recetor",
+    "iso_3166_3": null,
+    "dane_code": 85279,
+    "departament_id": 11
+  },
+  {
+    "name": "Sabanalarga",
+    "iso_3166_3": null,
+    "dane_code": 853,
+    "departament_id": 11
+  },
+  {
+    "name": "Sácama",
+    "iso_3166_3": null,
+    "dane_code": 85315,
+    "departament_id": 11
+  },
+  {
+    "name": "Tauramena",
+    "iso_3166_3": null,
+    "dane_code": 8541,
+    "departament_id": 11
+  },
+  {
+    "name": "Trinidad",
+    "iso_3166_3": null,
+    "dane_code": 8543,
+    "departament_id": 11
+  },
+  {
+    "name": "Villanueva",
+    "iso_3166_3": null,
+    "dane_code": 8544,
+    "departament_id": 11
+  },
+  {
+    "name": "San Luis de Gaceno",
+    "iso_3166_3": null,
+    "dane_code": 85325,
+    "departament_id": 11
+  },
+  {
+    "name": "Paz de Ariporo",
+    "iso_3166_3": null,
+    "dane_code": 8525,
+    "departament_id": 11
+  },
+  {
+    "name": "Páez",
+    "iso_3166_3": null,
+    "dane_code": 19517,
+    "departament_id": 12
+  },
+  {
+    "name": "Popayán",
+    "iso_3166_3": null,
+    "dane_code": 19001,
+    "departament_id": 12
+  },
+  {
+    "name": "Almaguer",
+    "iso_3166_3": null,
+    "dane_code": 19022,
+    "departament_id": 12
+  },
+  {
+    "name": "Argelia",
+    "iso_3166_3": null,
+    "dane_code": 1905,
+    "departament_id": 12
+  },
+  {
+    "name": "Balboa",
+    "iso_3166_3": null,
+    "dane_code": 19075,
+    "departament_id": 12
+  },
+  {
+    "name": "Bolívar",
+    "iso_3166_3": null,
+    "dane_code": 191,
+    "departament_id": 12
+  },
+  {
+    "name": "Buenos Aires",
+    "iso_3166_3": null,
+    "dane_code": 1911,
+    "departament_id": 12
+  },
+  {
+    "name": "Cajibío",
+    "iso_3166_3": null,
+    "dane_code": 1913,
+    "departament_id": 12
+  },
+  {
+    "name": "Caldono",
+    "iso_3166_3": null,
+    "dane_code": 19137,
+    "departament_id": 12
+  },
+  {
+    "name": "Caloto",
+    "iso_3166_3": null,
+    "dane_code": 19142,
+    "departament_id": 12
+  },
+  {
+    "name": "Corinto",
+    "iso_3166_3": null,
+    "dane_code": 19212,
+    "departament_id": 12
+  },
+  {
+    "name": "El Tambo",
+    "iso_3166_3": null,
+    "dane_code": 19256,
+    "departament_id": 12
+  },
+  {
+    "name": "Florencia",
+    "iso_3166_3": null,
+    "dane_code": 1929,
+    "departament_id": 12
+  },
+  {
+    "name": "Guachené",
+    "iso_3166_3": null,
+    "dane_code": 193,
+    "departament_id": 12
+  },
+  {
+    "name": "Guapi",
+    "iso_3166_3": null,
+    "dane_code": 19318,
+    "departament_id": 12
+  },
+  {
+    "name": "Inzá",
+    "iso_3166_3": null,
+    "dane_code": 19355,
+    "departament_id": 12
+  },
+  {
+    "name": "Jambaló",
+    "iso_3166_3": null,
+    "dane_code": 19364,
+    "departament_id": 12
+  },
+  {
+    "name": "La Sierra",
+    "iso_3166_3": null,
+    "dane_code": 19392,
+    "departament_id": 12
+  },
+  {
+    "name": "La Vega",
+    "iso_3166_3": null,
+    "dane_code": 19397,
+    "departament_id": 12
+  },
+  {
+    "name": "López",
+    "iso_3166_3": null,
+    "dane_code": 19418,
+    "departament_id": 12
+  },
+  {
+    "name": "Mercaderes",
+    "iso_3166_3": null,
+    "dane_code": 1945,
+    "departament_id": 12
+  },
+  {
+    "name": "Miranda",
+    "iso_3166_3": null,
+    "dane_code": 19455,
+    "departament_id": 12
+  },
+  {
+    "name": "Morales",
+    "iso_3166_3": null,
+    "dane_code": 19473,
+    "departament_id": 12
+  },
+  {
+    "name": "Padilla",
+    "iso_3166_3": null,
+    "dane_code": 19513,
+    "departament_id": 12
+  },
+  {
+    "name": "Patía",
+    "iso_3166_3": null,
+    "dane_code": 19532,
+    "departament_id": 12
+  },
+  {
+    "name": "Piamonte",
+    "iso_3166_3": null,
+    "dane_code": 19533,
+    "departament_id": 12
+  },
+  {
+    "name": "Piendamó",
+    "iso_3166_3": null,
+    "dane_code": 19548,
+    "departament_id": 12
+  },
+  {
+    "name": "Puerto Tejada",
+    "iso_3166_3": null,
+    "dane_code": 19573,
+    "departament_id": 12
+  },
+  {
+    "name": "Puracé",
+    "iso_3166_3": null,
+    "dane_code": 19585,
+    "departament_id": 12
+  },
+  {
+    "name": "Rosas",
+    "iso_3166_3": null,
+    "dane_code": 19622,
+    "departament_id": 12
+  },
+  {
+    "name": "Santa Rosa",
+    "iso_3166_3": null,
+    "dane_code": 19701,
+    "departament_id": 12
+  },
+  {
+    "name": "Silvia",
+    "iso_3166_3": null,
+    "dane_code": 19743,
+    "departament_id": 12
+  },
+  {
+    "name": "Sotara",
+    "iso_3166_3": null,
+    "dane_code": 1976,
+    "departament_id": 12
+  },
+  {
+    "name": "Suárez",
+    "iso_3166_3": null,
+    "dane_code": 1978,
+    "departament_id": 12
+  },
+  {
+    "name": "Sucre",
+    "iso_3166_3": null,
+    "dane_code": 19785,
+    "departament_id": 12
+  },
+  {
+    "name": "Timbío",
+    "iso_3166_3": null,
+    "dane_code": 19807,
+    "departament_id": 12
+  },
+  {
+    "name": "Timbiquí",
+    "iso_3166_3": null,
+    "dane_code": 19809,
+    "departament_id": 12
+  },
+  {
+    "name": "Toribio",
+    "iso_3166_3": null,
+    "dane_code": 19821,
+    "departament_id": 12
+  },
+  {
+    "name": "Totoró",
+    "iso_3166_3": null,
+    "dane_code": 19824,
+    "departament_id": 12
+  },
+  {
+    "name": "Villa Rica",
+    "iso_3166_3": null,
+    "dane_code": 19845,
+    "departament_id": 12
+  },
+  {
+    "name": "Santander de Quilichao",
+    "iso_3166_3": null,
+    "dane_code": 19698,
+    "departament_id": 12
+  },
+  {
+    "name": "San Sebastián",
+    "iso_3166_3": null,
+    "dane_code": 19693,
+    "departament_id": 12
+  },
+  {
+    "name": "Valledupar",
+    "iso_3166_3": null,
+    "dane_code": 20001,
+    "departament_id": 13
+  },
+  {
+    "name": "Aguachica",
+    "iso_3166_3": null,
+    "dane_code": 20011,
+    "departament_id": 13
+  },
+  {
+    "name": "Agustín Codazzi",
+    "iso_3166_3": null,
+    "dane_code": 20013,
+    "departament_id": 13
+  },
+  {
+    "name": "Astrea",
+    "iso_3166_3": null,
+    "dane_code": 20032,
+    "departament_id": 13
+  },
+  {
+    "name": "Becerril",
+    "iso_3166_3": null,
+    "dane_code": 20045,
+    "departament_id": 13
+  },
+  {
+    "name": "Bosconia",
+    "iso_3166_3": null,
+    "dane_code": 2006,
+    "departament_id": 13
+  },
+  {
+    "name": "Chimichagua",
+    "iso_3166_3": null,
+    "dane_code": 20175,
+    "departament_id": 13
+  },
+  {
+    "name": "Chiriguaná",
+    "iso_3166_3": null,
+    "dane_code": 20178,
+    "departament_id": 13
+  },
+  {
+    "name": "Curumaní",
+    "iso_3166_3": null,
+    "dane_code": 20228,
+    "departament_id": 13
+  },
+  {
+    "name": "El Copey",
+    "iso_3166_3": null,
+    "dane_code": 20238,
+    "departament_id": 13
+  },
+  {
+    "name": "El Paso",
+    "iso_3166_3": null,
+    "dane_code": 2025,
+    "departament_id": 13
+  },
+  {
+    "name": "Gamarra",
+    "iso_3166_3": null,
+    "dane_code": 20295,
+    "departament_id": 13
+  },
+  {
+    "name": "González",
+    "iso_3166_3": null,
+    "dane_code": 2031,
+    "departament_id": 13
+  },
+  {
+    "name": "La Gloria",
+    "iso_3166_3": null,
+    "dane_code": 20383,
+    "departament_id": 13
+  },
+  {
+    "name": "Manaure",
+    "iso_3166_3": null,
+    "dane_code": 20443,
+    "departament_id": 13
+  },
+  {
+    "name": "Pailitas",
+    "iso_3166_3": null,
+    "dane_code": 20517,
+    "departament_id": 13
+  },
+  {
+    "name": "Pelaya",
+    "iso_3166_3": null,
+    "dane_code": 2055,
+    "departament_id": 13
+  },
+  {
+    "name": "Pueblo Bello",
+    "iso_3166_3": null,
+    "dane_code": 2057,
+    "departament_id": 13
+  },
+  {
+    "name": "La Paz",
+    "iso_3166_3": null,
+    "dane_code": 20621,
+    "departament_id": 13
+  },
+  {
+    "name": "San Alberto",
+    "iso_3166_3": null,
+    "dane_code": 2071,
+    "departament_id": 13
+  },
+  {
+    "name": "San Diego",
+    "iso_3166_3": null,
+    "dane_code": 2075,
+    "departament_id": 13
+  },
+  {
+    "name": "San Martín",
+    "iso_3166_3": null,
+    "dane_code": 2077,
+    "departament_id": 13
+  },
+  {
+    "name": "Tamalameque",
+    "iso_3166_3": null,
+    "dane_code": 20787,
+    "departament_id": 13
+  },
+  {
+    "name": "Río de Oro",
+    "iso_3166_3": null,
+    "dane_code": 20614,
+    "departament_id": 13
+  },
+  {
+    "name": "La Jagua de Ibirico",
+    "iso_3166_3": null,
+    "dane_code": 204,
+    "departament_id": 13
+  },
+  {
+    "name": "Carmen del Darien",
+    "iso_3166_3": null,
+    "dane_code": 2715,
+    "departament_id": 14
+  },
+  {
+    "name": "Tadó",
+    "iso_3166_3": null,
+    "dane_code": 27787,
+    "departament_id": 14
+  },
+  {
+    "name": "Quibdó",
+    "iso_3166_3": null,
+    "dane_code": 27001,
+    "departament_id": 14
+  },
+  {
+    "name": "Acandí",
+    "iso_3166_3": null,
+    "dane_code": 27006,
+    "departament_id": 14
+  },
+  {
+    "name": "Alto Baudo",
+    "iso_3166_3": null,
+    "dane_code": 27025,
+    "departament_id": 14
+  },
+  {
+    "name": "Atrato",
+    "iso_3166_3": null,
+    "dane_code": 2705,
+    "departament_id": 14
+  },
+  {
+    "name": "Bagadó",
+    "iso_3166_3": null,
+    "dane_code": 27073,
+    "departament_id": 14
+  },
+  {
+    "name": "Bahía Solano",
+    "iso_3166_3": null,
+    "dane_code": 27075,
+    "departament_id": 14
+  },
+  {
+    "name": "Bajo Baudó",
+    "iso_3166_3": null,
+    "dane_code": 27077,
+    "departament_id": 14
+  },
+  {
+    "name": "Bojaya",
+    "iso_3166_3": null,
+    "dane_code": 27099,
+    "departament_id": 14
+  },
+  {
+    "name": "Unión Panamericana",
+    "iso_3166_3": null,
+    "dane_code": 2781,
+    "departament_id": 14
+  },
+  {
+    "name": "Cértegui",
+    "iso_3166_3": null,
+    "dane_code": 2716,
+    "departament_id": 14
+  },
+  {
+    "name": "Condoto",
+    "iso_3166_3": null,
+    "dane_code": 27205,
+    "departament_id": 14
+  },
+  {
+    "name": "Juradó",
+    "iso_3166_3": null,
+    "dane_code": 27372,
+    "departament_id": 14
+  },
+  {
+    "name": "Lloró",
+    "iso_3166_3": null,
+    "dane_code": 27413,
+    "departament_id": 14
+  },
+  {
+    "name": "Medio Atrato",
+    "iso_3166_3": null,
+    "dane_code": 27425,
+    "departament_id": 14
+  },
+  {
+    "name": "Medio Baudó",
+    "iso_3166_3": null,
+    "dane_code": 2743,
+    "departament_id": 14
+  },
+  {
+    "name": "Medio San Juan",
+    "iso_3166_3": null,
+    "dane_code": 2745,
+    "departament_id": 14
+  },
+  {
+    "name": "Nóvita",
+    "iso_3166_3": null,
+    "dane_code": 27491,
+    "departament_id": 14
+  },
+  {
+    "name": "Nuquí",
+    "iso_3166_3": null,
+    "dane_code": 27495,
+    "departament_id": 14
+  },
+  {
+    "name": "Río Iro",
+    "iso_3166_3": null,
+    "dane_code": 2758,
+    "departament_id": 14
+  },
+  {
+    "name": "Río Quito",
+    "iso_3166_3": null,
+    "dane_code": 276,
+    "departament_id": 14
+  },
+  {
+    "name": "Riosucio",
+    "iso_3166_3": null,
+    "dane_code": 27615,
+    "departament_id": 14
+  },
+  {
+    "name": "Sipí",
+    "iso_3166_3": null,
+    "dane_code": 27745,
+    "departament_id": 14
+  },
+  {
+    "name": "Unguía",
+    "iso_3166_3": null,
+    "dane_code": 278,
+    "departament_id": 14
+  },
+  {
+    "name": "Istmina",
+    "iso_3166_3": null,
+    "dane_code": 27361,
+    "departament_id": 14
+  },
+  {
+    "name": "El Litoral del San Juan",
+    "iso_3166_3": null,
+    "dane_code": 2725,
+    "departament_id": 14
+  },
+  {
+    "name": "El Cantón del San Pablo",
+    "iso_3166_3": null,
+    "dane_code": 27135,
+    "departament_id": 14
+  },
+  {
+    "name": "El Carmen de Atrato",
+    "iso_3166_3": null,
+    "dane_code": 27245,
+    "departament_id": 14
+  },
+  {
+    "name": "San José del Palmar",
+    "iso_3166_3": null,
+    "dane_code": 2766,
+    "departament_id": 14
+  },
+  {
+    "name": "Belén de Bajira",
+    "iso_3166_3": null,
+    "dane_code": 27086,
+    "departament_id": 14
+  },
+  {
+    "name": "Montelíbano",
+    "iso_3166_3": null,
+    "dane_code": 23466,
+    "departament_id": 15
+  },
+  {
+    "name": "Montería",
+    "iso_3166_3": null,
+    "dane_code": 23001,
+    "departament_id": 15
+  },
+  {
+    "name": "Ayapel",
+    "iso_3166_3": null,
+    "dane_code": 23068,
+    "departament_id": 15
+  },
+  {
+    "name": "Buenavista",
+    "iso_3166_3": null,
+    "dane_code": 23079,
+    "departament_id": 15
+  },
+  {
+    "name": "Canalete",
+    "iso_3166_3": null,
+    "dane_code": 2309,
+    "departament_id": 15
+  },
+  {
+    "name": "Cereté",
+    "iso_3166_3": null,
+    "dane_code": 23162,
+    "departament_id": 15
+  },
+  {
+    "name": "Chimá",
+    "iso_3166_3": null,
+    "dane_code": 23168,
+    "departament_id": 15
+  },
+  {
+    "name": "Chinú",
+    "iso_3166_3": null,
+    "dane_code": 23182,
+    "departament_id": 15
+  },
+  {
+    "name": "Cotorra",
+    "iso_3166_3": null,
+    "dane_code": 233,
+    "departament_id": 15
+  },
+  {
+    "name": "Lorica",
+    "iso_3166_3": null,
+    "dane_code": 23417,
+    "departament_id": 15
+  },
+  {
+    "name": "Los Córdobas",
+    "iso_3166_3": null,
+    "dane_code": 23419,
+    "departament_id": 15
+  },
+  {
+    "name": "Momil",
+    "iso_3166_3": null,
+    "dane_code": 23464,
+    "departament_id": 15
+  },
+  {
+    "name": "Moñitos",
+    "iso_3166_3": null,
+    "dane_code": 235,
+    "departament_id": 15
+  },
+  {
+    "name": "Planeta Rica",
+    "iso_3166_3": null,
+    "dane_code": 23555,
+    "departament_id": 15
+  },
+  {
+    "name": "Pueblo Nuevo",
+    "iso_3166_3": null,
+    "dane_code": 2357,
+    "departament_id": 15
+  },
+  {
+    "name": "Puerto Escondido",
+    "iso_3166_3": null,
+    "dane_code": 23574,
+    "departament_id": 15
+  },
+  {
+    "name": "Purísima",
+    "iso_3166_3": null,
+    "dane_code": 23586,
+    "departament_id": 15
+  },
+  {
+    "name": "Sahagún",
+    "iso_3166_3": null,
+    "dane_code": 2366,
+    "departament_id": 15
+  },
+  {
+    "name": "San Andrés Sotavento",
+    "iso_3166_3": null,
+    "dane_code": 2367,
+    "departament_id": 15
+  },
+  {
+    "name": "San Antero",
+    "iso_3166_3": null,
+    "dane_code": 23672,
+    "departament_id": 15
+  },
+  {
+    "name": "San Pelayo",
+    "iso_3166_3": null,
+    "dane_code": 23686,
+    "departament_id": 15
+  },
+  {
+    "name": "Tierralta",
+    "iso_3166_3": null,
+    "dane_code": 23807,
+    "departament_id": 15
+  },
+  {
+    "name": "Tuchín",
+    "iso_3166_3": null,
+    "dane_code": 23815,
+    "departament_id": 15
+  },
+  {
+    "name": "Valencia",
+    "iso_3166_3": null,
+    "dane_code": 23855,
+    "departament_id": 15
+  },
+  {
+    "name": "La Apartada",
+    "iso_3166_3": null,
+    "dane_code": 2335,
+    "departament_id": 15
+  },
+  {
+    "name": "Puerto Libertador",
+    "iso_3166_3": null,
+    "dane_code": 2358,
+    "departament_id": 15
+  },
+  {
+    "name": "San Bernardo del Viento",
+    "iso_3166_3": null,
+    "dane_code": 23675,
+    "departament_id": 15
+  },
+  {
+    "name": "San José de Uré",
+    "iso_3166_3": null,
+    "dane_code": 23682,
+    "departament_id": 15
+  },
+  {
+    "name": "Ciénaga de Oro",
+    "iso_3166_3": null,
+    "dane_code": 23189,
+    "departament_id": 15
+  },
+  {
+    "name": "San Carlos",
+    "iso_3166_3": null,
+    "dane_code": 23678,
+    "departament_id": 15
+  },
+  {
+    "name": "Albán",
+    "iso_3166_3": null,
+    "dane_code": 25019,
+    "departament_id": 16
+  },
+  {
+    "name": "Anolaima",
+    "iso_3166_3": null,
+    "dane_code": 2504,
+    "departament_id": 16
+  },
+  {
+    "name": "Chía",
+    "iso_3166_3": null,
+    "dane_code": 25175,
+    "departament_id": 16
+  },
+  {
+    "name": "El Peñón",
+    "iso_3166_3": null,
+    "dane_code": 25258,
+    "departament_id": 16
+  },
+  {
+    "name": "Sopó",
+    "iso_3166_3": null,
+    "dane_code": 25758,
+    "departament_id": 16
+  },
+  {
+    "name": "Gama",
+    "iso_3166_3": null,
+    "dane_code": 25299,
+    "departament_id": 16
+  },
+  {
+    "name": "Sasaima",
+    "iso_3166_3": null,
+    "dane_code": 25718,
+    "departament_id": 16
+  },
+  {
+    "name": "Yacopí",
+    "iso_3166_3": null,
+    "dane_code": 25885,
+    "departament_id": 16
+  },
+  {
+    "name": "Anapoima",
+    "iso_3166_3": null,
+    "dane_code": 25035,
+    "departament_id": 16
+  },
+  {
+    "name": "Arbeláez",
+    "iso_3166_3": null,
+    "dane_code": 25053,
+    "departament_id": 16
+  },
+  {
+    "name": "Beltrán",
+    "iso_3166_3": null,
+    "dane_code": 25086,
+    "departament_id": 16
+  },
+  {
+    "name": "Bituima",
+    "iso_3166_3": null,
+    "dane_code": 25095,
+    "departament_id": 16
+  },
+  {
+    "name": "Bojacá",
+    "iso_3166_3": null,
+    "dane_code": 25099,
+    "departament_id": 16
+  },
+  {
+    "name": "Cabrera",
+    "iso_3166_3": null,
+    "dane_code": 2512,
+    "departament_id": 16
+  },
+  {
+    "name": "Cachipay",
+    "iso_3166_3": null,
+    "dane_code": 25123,
+    "departament_id": 16
+  },
+  {
+    "name": "Cajicá",
+    "iso_3166_3": null,
+    "dane_code": 25126,
+    "departament_id": 16
+  },
+  {
+    "name": "Caparrapí",
+    "iso_3166_3": null,
+    "dane_code": 25148,
+    "departament_id": 16
+  },
+  {
+    "name": "Caqueza",
+    "iso_3166_3": null,
+    "dane_code": 25151,
+    "departament_id": 16
+  },
+  {
+    "name": "Chaguaní",
+    "iso_3166_3": null,
+    "dane_code": 25168,
+    "departament_id": 16
+  },
+  {
+    "name": "Chipaque",
+    "iso_3166_3": null,
+    "dane_code": 25178,
+    "departament_id": 16
+  },
+  {
+    "name": "Choachí",
+    "iso_3166_3": null,
+    "dane_code": 25181,
+    "departament_id": 16
+  },
+  {
+    "name": "Chocontá",
+    "iso_3166_3": null,
+    "dane_code": 25183,
+    "departament_id": 16
+  },
+  {
+    "name": "Cogua",
+    "iso_3166_3": null,
+    "dane_code": 252,
+    "departament_id": 16
+  },
+  {
+    "name": "Cota",
+    "iso_3166_3": null,
+    "dane_code": 25214,
+    "departament_id": 16
+  },
+  {
+    "name": "Cucunubá",
+    "iso_3166_3": null,
+    "dane_code": 25224,
+    "departament_id": 16
+  },
+  {
+    "name": "El Colegio",
+    "iso_3166_3": null,
+    "dane_code": 25245,
+    "departament_id": 16
+  },
+  {
+    "name": "El Rosal",
+    "iso_3166_3": null,
+    "dane_code": 2526,
+    "departament_id": 16
+  },
+  {
+    "name": "Fomeque",
+    "iso_3166_3": null,
+    "dane_code": 25279,
+    "departament_id": 16
+  },
+  {
+    "name": "Fosca",
+    "iso_3166_3": null,
+    "dane_code": 25281,
+    "departament_id": 16
+  },
+  {
+    "name": "Funza",
+    "iso_3166_3": null,
+    "dane_code": 25286,
+    "departament_id": 16
+  },
+  {
+    "name": "Fúquene",
+    "iso_3166_3": null,
+    "dane_code": 25288,
+    "departament_id": 16
+  },
+  {
+    "name": "Gachala",
+    "iso_3166_3": null,
+    "dane_code": 25293,
+    "departament_id": 16
+  },
+  {
+    "name": "Gachancipá",
+    "iso_3166_3": null,
+    "dane_code": 25295,
+    "departament_id": 16
+  },
+  {
+    "name": "Gachetá",
+    "iso_3166_3": null,
+    "dane_code": 25297,
+    "departament_id": 16
+  },
+  {
+    "name": "Girardot",
+    "iso_3166_3": null,
+    "dane_code": 25307,
+    "departament_id": 16
+  },
+  {
+    "name": "Granada",
+    "iso_3166_3": null,
+    "dane_code": 25312,
+    "departament_id": 16
+  },
+  {
+    "name": "Guachetá",
+    "iso_3166_3": null,
+    "dane_code": 25317,
+    "departament_id": 16
+  },
+  {
+    "name": "Guaduas",
+    "iso_3166_3": null,
+    "dane_code": 2532,
+    "departament_id": 16
+  },
+  {
+    "name": "Guasca",
+    "iso_3166_3": null,
+    "dane_code": 25322,
+    "departament_id": 16
+  },
+  {
+    "name": "Guataquí",
+    "iso_3166_3": null,
+    "dane_code": 25324,
+    "departament_id": 16
+  },
+  {
+    "name": "Guatavita",
+    "iso_3166_3": null,
+    "dane_code": 25326,
+    "departament_id": 16
+  },
+  {
+    "name": "Fusagasugá",
+    "iso_3166_3": null,
+    "dane_code": 2529,
+    "departament_id": 16
+  },
+  {
+    "name": "Guayabetal",
+    "iso_3166_3": null,
+    "dane_code": 25335,
+    "departament_id": 16
+  },
+  {
+    "name": "Gutiérrez",
+    "iso_3166_3": null,
+    "dane_code": 25339,
+    "departament_id": 16
+  },
+  {
+    "name": "Jerusalén",
+    "iso_3166_3": null,
+    "dane_code": 25368,
+    "departament_id": 16
+  },
+  {
+    "name": "Junín",
+    "iso_3166_3": null,
+    "dane_code": 25372,
+    "departament_id": 16
+  },
+  {
+    "name": "La Calera",
+    "iso_3166_3": null,
+    "dane_code": 25377,
+    "departament_id": 16
+  },
+  {
+    "name": "La Mesa",
+    "iso_3166_3": null,
+    "dane_code": 25386,
+    "departament_id": 16
+  },
+  {
+    "name": "La Palma",
+    "iso_3166_3": null,
+    "dane_code": 25394,
+    "departament_id": 16
+  },
+  {
+    "name": "La Peña",
+    "iso_3166_3": null,
+    "dane_code": 25398,
+    "departament_id": 16
+  },
+  {
+    "name": "La Vega",
+    "iso_3166_3": null,
+    "dane_code": 25402,
+    "departament_id": 16
+  },
+  {
+    "name": "Lenguazaque",
+    "iso_3166_3": null,
+    "dane_code": 25407,
+    "departament_id": 16
+  },
+  {
+    "name": "Macheta",
+    "iso_3166_3": null,
+    "dane_code": 25426,
+    "departament_id": 16
+  },
+  {
+    "name": "Madrid",
+    "iso_3166_3": null,
+    "dane_code": 2543,
+    "departament_id": 16
+  },
+  {
+    "name": "Manta",
+    "iso_3166_3": null,
+    "dane_code": 25436,
+    "departament_id": 16
+  },
+  {
+    "name": "Medina",
+    "iso_3166_3": null,
+    "dane_code": 25438,
+    "departament_id": 16
+  },
+  {
+    "name": "Mosquera",
+    "iso_3166_3": null,
+    "dane_code": 25473,
+    "departament_id": 16
+  },
+  {
+    "name": "Nariño",
+    "iso_3166_3": null,
+    "dane_code": 25483,
+    "departament_id": 16
+  },
+  {
+    "name": "Nemocón",
+    "iso_3166_3": null,
+    "dane_code": 25486,
+    "departament_id": 16
+  },
+  {
+    "name": "Nilo",
+    "iso_3166_3": null,
+    "dane_code": 25488,
+    "departament_id": 16
+  },
+  {
+    "name": "Nimaima",
+    "iso_3166_3": null,
+    "dane_code": 25489,
+    "departament_id": 16
+  },
+  {
+    "name": "Nocaima",
+    "iso_3166_3": null,
+    "dane_code": 25491,
+    "departament_id": 16
+  },
+  {
+    "name": "Venecia",
+    "iso_3166_3": null,
+    "dane_code": 25506,
+    "departament_id": 16
+  },
+  {
+    "name": "Pacho",
+    "iso_3166_3": null,
+    "dane_code": 25513,
+    "departament_id": 16
+  },
+  {
+    "name": "Paime",
+    "iso_3166_3": null,
+    "dane_code": 25518,
+    "departament_id": 16
+  },
+  {
+    "name": "Pandi",
+    "iso_3166_3": null,
+    "dane_code": 25524,
+    "departament_id": 16
+  },
+  {
+    "name": "Paratebueno",
+    "iso_3166_3": null,
+    "dane_code": 2553,
+    "departament_id": 16
+  },
+  {
+    "name": "Pasca",
+    "iso_3166_3": null,
+    "dane_code": 25535,
+    "departament_id": 16
+  },
+  {
+    "name": "Puerto Salgar",
+    "iso_3166_3": null,
+    "dane_code": 25572,
+    "departament_id": 16
+  },
+  {
+    "name": "Pulí",
+    "iso_3166_3": null,
+    "dane_code": 2558,
+    "departament_id": 16
+  },
+  {
+    "name": "Quebradanegra",
+    "iso_3166_3": null,
+    "dane_code": 25592,
+    "departament_id": 16
+  },
+  {
+    "name": "Quetame",
+    "iso_3166_3": null,
+    "dane_code": 25594,
+    "departament_id": 16
+  },
+  {
+    "name": "Quipile",
+    "iso_3166_3": null,
+    "dane_code": 25596,
+    "departament_id": 16
+  },
+  {
+    "name": "Apulo",
+    "iso_3166_3": null,
+    "dane_code": 25599,
+    "departament_id": 16
+  },
+  {
+    "name": "Ricaurte",
+    "iso_3166_3": null,
+    "dane_code": 25612,
+    "departament_id": 16
+  },
+  {
+    "name": "San Bernardo",
+    "iso_3166_3": null,
+    "dane_code": 25649,
+    "departament_id": 16
+  },
+  {
+    "name": "San Cayetano",
+    "iso_3166_3": null,
+    "dane_code": 25653,
+    "departament_id": 16
+  },
+  {
+    "name": "San Francisco",
+    "iso_3166_3": null,
+    "dane_code": 25658,
+    "departament_id": 16
+  },
+  {
+    "name": "Zipaquirá",
+    "iso_3166_3": null,
+    "dane_code": 25899,
+    "departament_id": 16
+  },
+  {
+    "name": "Sesquilé",
+    "iso_3166_3": null,
+    "dane_code": 25736,
+    "departament_id": 16
+  },
+  {
+    "name": "Sibaté",
+    "iso_3166_3": null,
+    "dane_code": 2574,
+    "departament_id": 16
+  },
+  {
+    "name": "Silvania",
+    "iso_3166_3": null,
+    "dane_code": 25743,
+    "departament_id": 16
+  },
+  {
+    "name": "Simijaca",
+    "iso_3166_3": null,
+    "dane_code": 25745,
+    "departament_id": 16
+  },
+  {
+    "name": "Soacha",
+    "iso_3166_3": null,
+    "dane_code": 25754,
+    "departament_id": 16
+  },
+  {
+    "name": "Subachoque",
+    "iso_3166_3": null,
+    "dane_code": 25769,
+    "departament_id": 16
+  },
+  {
+    "name": "Suesca",
+    "iso_3166_3": null,
+    "dane_code": 25772,
+    "departament_id": 16
+  },
+  {
+    "name": "Supatá",
+    "iso_3166_3": null,
+    "dane_code": 25777,
+    "departament_id": 16
+  },
+  {
+    "name": "Susa",
+    "iso_3166_3": null,
+    "dane_code": 25779,
+    "departament_id": 16
+  },
+  {
+    "name": "Sutatausa",
+    "iso_3166_3": null,
+    "dane_code": 25781,
+    "departament_id": 16
+  },
+  {
+    "name": "Tabio",
+    "iso_3166_3": null,
+    "dane_code": 25785,
+    "departament_id": 16
+  },
+  {
+    "name": "Tausa",
+    "iso_3166_3": null,
+    "dane_code": 25793,
+    "departament_id": 16
+  },
+  {
+    "name": "Tena",
+    "iso_3166_3": null,
+    "dane_code": 25797,
+    "departament_id": 16
+  },
+  {
+    "name": "Tenjo",
+    "iso_3166_3": null,
+    "dane_code": 25799,
+    "departament_id": 16
+  },
+  {
+    "name": "Tibacuy",
+    "iso_3166_3": null,
+    "dane_code": 25805,
+    "departament_id": 16
+  },
+  {
+    "name": "Tibirita",
+    "iso_3166_3": null,
+    "dane_code": 25807,
+    "departament_id": 16
+  },
+  {
+    "name": "Tocaima",
+    "iso_3166_3": null,
+    "dane_code": 25815,
+    "departament_id": 16
+  },
+  {
+    "name": "Tocancipá",
+    "iso_3166_3": null,
+    "dane_code": 25817,
+    "departament_id": 16
+  },
+  {
+    "name": "Topaipí",
+    "iso_3166_3": null,
+    "dane_code": 25823,
+    "departament_id": 16
+  },
+  {
+    "name": "Ubalá",
+    "iso_3166_3": null,
+    "dane_code": 25839,
+    "departament_id": 16
+  },
+  {
+    "name": "Ubaque",
+    "iso_3166_3": null,
+    "dane_code": 25841,
+    "departament_id": 16
+  },
+  {
+    "name": "Une",
+    "iso_3166_3": null,
+    "dane_code": 25845,
+    "departament_id": 16
+  },
+  {
+    "name": "Útica",
+    "iso_3166_3": null,
+    "dane_code": 25851,
+    "departament_id": 16
+  },
+  {
+    "name": "Vianí",
+    "iso_3166_3": null,
+    "dane_code": 25867,
+    "departament_id": 16
+  },
+  {
+    "name": "Villagómez",
+    "iso_3166_3": null,
+    "dane_code": 25871,
+    "departament_id": 16
+  },
+  {
+    "name": "Villapinzón",
+    "iso_3166_3": null,
+    "dane_code": 25873,
+    "departament_id": 16
+  },
+  {
+    "name": "Villeta",
+    "iso_3166_3": null,
+    "dane_code": 25875,
+    "departament_id": 16
+  },
+  {
+    "name": "Viotá",
+    "iso_3166_3": null,
+    "dane_code": 25878,
+    "departament_id": 16
+  },
+  {
+    "name": "Zipacón",
+    "iso_3166_3": null,
+    "dane_code": 25898,
+    "departament_id": 16
+  },
+  {
+    "name": "Facatativá",
+    "iso_3166_3": null,
+    "dane_code": 25269,
+    "departament_id": 16
+  },
+  {
+    "name": "San Juan de Río Seco",
+    "iso_3166_3": null,
+    "dane_code": 25662,
+    "departament_id": 16
+  },
+  {
+    "name": "Villa de San Diego de Ubate",
+    "iso_3166_3": null,
+    "dane_code": 25843,
+    "departament_id": 16
+  },
+  {
+    "name": "Guayabal de Siquima",
+    "iso_3166_3": null,
+    "dane_code": 25328,
+    "departament_id": 16
+  },
+  {
+    "name": "San Antonio del Tequendama",
+    "iso_3166_3": null,
+    "dane_code": 25645,
+    "departament_id": 16
+  },
+  {
+    "name": "Agua de Dios",
+    "iso_3166_3": null,
+    "dane_code": 25001,
+    "departament_id": 16
+  },
+  {
+    "name": "Carmen de Carupa",
+    "iso_3166_3": null,
+    "dane_code": 25154,
+    "departament_id": 16
+  },
+  {
+    "name": "Vergara",
+    "iso_3166_3": null,
+    "dane_code": 25862,
+    "departament_id": 16
+  },
+  {
+    "name": "Inírida",
+    "iso_3166_3": null,
+    "dane_code": 94001,
+    "departament_id": 17
+  },
+  {
+    "name": "Barranco Minas",
+    "iso_3166_3": null,
+    "dane_code": 94343,
+    "departament_id": 17
+  },
+  {
+    "name": "Mapiripana",
+    "iso_3166_3": null,
+    "dane_code": 94663,
+    "departament_id": 17
+  },
+  {
+    "name": "San Felipe",
+    "iso_3166_3": null,
+    "dane_code": 94883,
+    "departament_id": 17
+  },
+  {
+    "name": "Puerto Colombia",
+    "iso_3166_3": null,
+    "dane_code": 94884,
+    "departament_id": 17
+  },
+  {
+    "name": "La Guadalupe",
+    "iso_3166_3": null,
+    "dane_code": 94885,
+    "departament_id": 17
+  },
+  {
+    "name": "Cacahual",
+    "iso_3166_3": null,
+    "dane_code": 94886,
+    "departament_id": 17
+  },
+  {
+    "name": "Pana Pana",
+    "iso_3166_3": null,
+    "dane_code": 94887,
+    "departament_id": 17
+  },
+  {
+    "name": "Morichal",
+    "iso_3166_3": null,
+    "dane_code": 94888,
+    "departament_id": 17
+  },
+  {
+    "name": "Calamar",
+    "iso_3166_3": null,
+    "dane_code": 95015,
+    "departament_id": 18
+  },
+  {
+    "name": "San José del Guaviare",
+    "iso_3166_3": null,
+    "dane_code": 95001,
+    "departament_id": 18
+  },
+  {
+    "name": "Miraflores",
+    "iso_3166_3": null,
+    "dane_code": 952,
+    "departament_id": 18
+  },
+  {
+    "name": "El Retorno",
+    "iso_3166_3": null,
+    "dane_code": 95025,
+    "departament_id": 18
+  },
+  {
+    "name": "Neiva",
+    "iso_3166_3": null,
+    "dane_code": 41001,
+    "departament_id": 19
+  },
+  {
+    "name": "Acevedo",
+    "iso_3166_3": null,
+    "dane_code": 41006,
+    "departament_id": 19
+  },
+  {
+    "name": "Agrado",
+    "iso_3166_3": null,
+    "dane_code": 41013,
+    "departament_id": 19
+  },
+  {
+    "name": "Aipe",
+    "iso_3166_3": null,
+    "dane_code": 41016,
+    "departament_id": 19
+  },
+  {
+    "name": "Algeciras",
+    "iso_3166_3": null,
+    "dane_code": 4102,
+    "departament_id": 19
+  },
+  {
+    "name": "Altamira",
+    "iso_3166_3": null,
+    "dane_code": 41026,
+    "departament_id": 19
+  },
+  {
+    "name": "Baraya",
+    "iso_3166_3": null,
+    "dane_code": 41078,
+    "departament_id": 19
+  },
+  {
+    "name": "Campoalegre",
+    "iso_3166_3": null,
+    "dane_code": 41132,
+    "departament_id": 19
+  },
+  {
+    "name": "Colombia",
+    "iso_3166_3": null,
+    "dane_code": 41206,
+    "departament_id": 19
+  },
+  {
+    "name": "Elías",
+    "iso_3166_3": null,
+    "dane_code": 41244,
+    "departament_id": 19
+  },
+  {
+    "name": "Garzón",
+    "iso_3166_3": null,
+    "dane_code": 41298,
+    "departament_id": 19
+  },
+  {
+    "name": "Gigante",
+    "iso_3166_3": null,
+    "dane_code": 41306,
+    "departament_id": 19
+  },
+  {
+    "name": "Guadalupe",
+    "iso_3166_3": null,
+    "dane_code": 41319,
+    "departament_id": 19
+  },
+  {
+    "name": "Hobo",
+    "iso_3166_3": null,
+    "dane_code": 41349,
+    "departament_id": 19
+  },
+  {
+    "name": "Iquira",
+    "iso_3166_3": null,
+    "dane_code": 41357,
+    "departament_id": 19
+  },
+  {
+    "name": "Isnos",
+    "iso_3166_3": null,
+    "dane_code": 41359,
+    "departament_id": 19
+  },
+  {
+    "name": "La Argentina",
+    "iso_3166_3": null,
+    "dane_code": 41378,
+    "departament_id": 19
+  },
+  {
+    "name": "La Plata",
+    "iso_3166_3": null,
+    "dane_code": 41396,
+    "departament_id": 19
+  },
+  {
+    "name": "Nátaga",
+    "iso_3166_3": null,
+    "dane_code": 41483,
+    "departament_id": 19
+  },
+  {
+    "name": "Oporapa",
+    "iso_3166_3": null,
+    "dane_code": 41503,
+    "departament_id": 19
+  },
+  {
+    "name": "Paicol",
+    "iso_3166_3": null,
+    "dane_code": 41518,
+    "departament_id": 19
+  },
+  {
+    "name": "Palermo",
+    "iso_3166_3": null,
+    "dane_code": 41524,
+    "departament_id": 19
+  },
+  {
+    "name": "Palestina",
+    "iso_3166_3": null,
+    "dane_code": 4153,
+    "departament_id": 19
+  },
+  {
+    "name": "Pital",
+    "iso_3166_3": null,
+    "dane_code": 41548,
+    "departament_id": 19
+  },
+  {
+    "name": "Pitalito",
+    "iso_3166_3": null,
+    "dane_code": 41551,
+    "departament_id": 19
+  },
+  {
+    "name": "Rivera",
+    "iso_3166_3": null,
+    "dane_code": 41615,
+    "departament_id": 19
+  },
+  {
+    "name": "Saladoblanco",
+    "iso_3166_3": null,
+    "dane_code": 4166,
+    "departament_id": 19
+  },
+  {
+    "name": "Santa María",
+    "iso_3166_3": null,
+    "dane_code": 41676,
+    "departament_id": 19
+  },
+  {
+    "name": "Suaza",
+    "iso_3166_3": null,
+    "dane_code": 4177,
+    "departament_id": 19
+  },
+  {
+    "name": "Tarqui",
+    "iso_3166_3": null,
+    "dane_code": 41791,
+    "departament_id": 19
+  },
+  {
+    "name": "Tesalia",
+    "iso_3166_3": null,
+    "dane_code": 41797,
+    "departament_id": 19
+  },
+  {
+    "name": "Tello",
+    "iso_3166_3": null,
+    "dane_code": 41799,
+    "departament_id": 19
+  },
+  {
+    "name": "Teruel",
+    "iso_3166_3": null,
+    "dane_code": 41801,
+    "departament_id": 19
+  },
+  {
+    "name": "Timaná",
+    "iso_3166_3": null,
+    "dane_code": 41807,
+    "departament_id": 19
+  },
+  {
+    "name": "Villavieja",
+    "iso_3166_3": null,
+    "dane_code": 41872,
+    "departament_id": 19
+  },
+  {
+    "name": "Yaguará",
+    "iso_3166_3": null,
+    "dane_code": 41885,
+    "departament_id": 19
+  },
+  {
+    "name": "San Agustín",
+    "iso_3166_3": null,
+    "dane_code": 41668,
+    "departament_id": 19
+  },
+  {
+    "name": "Riohacha",
+    "iso_3166_3": null,
+    "dane_code": 44001,
+    "departament_id": 20
+  },
+  {
+    "name": "Albania",
+    "iso_3166_3": null,
+    "dane_code": 44035,
+    "departament_id": 20
+  },
+  {
+    "name": "Barrancas",
+    "iso_3166_3": null,
+    "dane_code": 44078,
+    "departament_id": 20
+  },
+  {
+    "name": "Dibula",
+    "iso_3166_3": null,
+    "dane_code": 4409,
+    "departament_id": 20
+  },
+  {
+    "name": "Distracción",
+    "iso_3166_3": null,
+    "dane_code": 44098,
+    "departament_id": 20
+  },
+  {
+    "name": "El Molino",
+    "iso_3166_3": null,
+    "dane_code": 4411,
+    "departament_id": 20
+  },
+  {
+    "name": "Fonseca",
+    "iso_3166_3": null,
+    "dane_code": 44279,
+    "departament_id": 20
+  },
+  {
+    "name": "Hatonuevo",
+    "iso_3166_3": null,
+    "dane_code": 44378,
+    "departament_id": 20
+  },
+  {
+    "name": "Maicao",
+    "iso_3166_3": null,
+    "dane_code": 4443,
+    "departament_id": 20
+  },
+  {
+    "name": "Manaure",
+    "iso_3166_3": null,
+    "dane_code": 4456,
+    "departament_id": 20
+  },
+  {
+    "name": "Uribia",
+    "iso_3166_3": null,
+    "dane_code": 44847,
+    "departament_id": 20
+  },
+  {
+    "name": "Urumita",
+    "iso_3166_3": null,
+    "dane_code": 44855,
+    "departament_id": 20
+  },
+  {
+    "name": "Villanueva",
+    "iso_3166_3": null,
+    "dane_code": 44874,
+    "departament_id": 20
+  },
+  {
+    "name": "La Jagua del Pilar",
+    "iso_3166_3": null,
+    "dane_code": 4442,
+    "departament_id": 20
+  },
+  {
+    "name": "San Juan del Cesar",
+    "iso_3166_3": null,
+    "dane_code": 4465,
+    "departament_id": 20
+  },
+  {
+    "name": "Santa Bárbara de Pinto",
+    "iso_3166_3": null,
+    "dane_code": 4772,
+    "departament_id": 21
+  },
+  {
+    "name": "Pueblo Viejo",
+    "iso_3166_3": null,
+    "dane_code": 4757,
+    "departament_id": 21
+  },
+  {
+    "name": "Santa Marta",
+    "iso_3166_3": null,
+    "dane_code": 47001,
+    "departament_id": 21
+  },
+  {
+    "name": "Algarrobo",
+    "iso_3166_3": null,
+    "dane_code": 4703,
+    "departament_id": 21
+  },
+  {
+    "name": "Aracataca",
+    "iso_3166_3": null,
+    "dane_code": 47053,
+    "departament_id": 21
+  },
+  {
+    "name": "Ariguaní",
+    "iso_3166_3": null,
+    "dane_code": 47058,
+    "departament_id": 21
+  },
+  {
+    "name": "Cerro San Antonio",
+    "iso_3166_3": null,
+    "dane_code": 47161,
+    "departament_id": 21
+  },
+  {
+    "name": "Chivolo",
+    "iso_3166_3": null,
+    "dane_code": 4717,
+    "departament_id": 21
+  },
+  {
+    "name": "Concordia",
+    "iso_3166_3": null,
+    "dane_code": 47205,
+    "departament_id": 21
+  },
+  {
+    "name": "El Banco",
+    "iso_3166_3": null,
+    "dane_code": 47245,
+    "departament_id": 21
+  },
+  {
+    "name": "El Piñon",
+    "iso_3166_3": null,
+    "dane_code": 47258,
+    "departament_id": 21
+  },
+  {
+    "name": "El Retén",
+    "iso_3166_3": null,
+    "dane_code": 47268,
+    "departament_id": 21
+  },
+  {
+    "name": "Fundación",
+    "iso_3166_3": null,
+    "dane_code": 47288,
+    "departament_id": 21
+  },
+  {
+    "name": "Guamal",
+    "iso_3166_3": null,
+    "dane_code": 47318,
+    "departament_id": 21
+  },
+  {
+    "name": "Nueva Granada",
+    "iso_3166_3": null,
+    "dane_code": 4746,
+    "departament_id": 21
+  },
+  {
+    "name": "Pedraza",
+    "iso_3166_3": null,
+    "dane_code": 47541,
+    "departament_id": 21
+  },
+  {
+    "name": "Pivijay",
+    "iso_3166_3": null,
+    "dane_code": 47551,
+    "departament_id": 21
+  },
+  {
+    "name": "Plato",
+    "iso_3166_3": null,
+    "dane_code": 47555,
+    "departament_id": 21
+  },
+  {
+    "name": "Remolino",
+    "iso_3166_3": null,
+    "dane_code": 47605,
+    "departament_id": 21
+  },
+  {
+    "name": "Salamina",
+    "iso_3166_3": null,
+    "dane_code": 47675,
+    "departament_id": 21
+  },
+  {
+    "name": "San Zenón",
+    "iso_3166_3": null,
+    "dane_code": 47703,
+    "departament_id": 21
+  },
+  {
+    "name": "Santa Ana",
+    "iso_3166_3": null,
+    "dane_code": 47707,
+    "departament_id": 21
+  },
+  {
+    "name": "Sitionuevo",
+    "iso_3166_3": null,
+    "dane_code": 47745,
+    "departament_id": 21
+  },
+  {
+    "name": "Tenerife",
+    "iso_3166_3": null,
+    "dane_code": 47798,
+    "departament_id": 21
+  },
+  {
+    "name": "Zapayán",
+    "iso_3166_3": null,
+    "dane_code": 4796,
+    "departament_id": 21
+  },
+  {
+    "name": "Zona Bananera",
+    "iso_3166_3": null,
+    "dane_code": 4798,
+    "departament_id": 21
+  },
+  {
+    "name": "Ciénaga",
+    "iso_3166_3": null,
+    "dane_code": 47189,
+    "departament_id": 21
+  },
+  {
+    "name": "San Sebastián de Buenavista",
+    "iso_3166_3": null,
+    "dane_code": 47692,
+    "departament_id": 21
+  },
+  {
+    "name": "Sabanas de San Angel",
+    "iso_3166_3": null,
+    "dane_code": 4766,
+    "departament_id": 21
+  },
+  {
+    "name": "Pijiño del Carmen",
+    "iso_3166_3": null,
+    "dane_code": 47545,
+    "departament_id": 21
+  },
+  {
+    "name": "Castilla la Nueva",
+    "iso_3166_3": null,
+    "dane_code": 5015,
+    "departament_id": 22
+  },
+  {
+    "name": "Villavicencio",
+    "iso_3166_3": null,
+    "dane_code": 50001,
+    "departament_id": 22
+  },
+  {
+    "name": "Acacias",
+    "iso_3166_3": null,
+    "dane_code": 50006,
+    "departament_id": 22
+  },
+  {
+    "name": "Cabuyaro",
+    "iso_3166_3": null,
+    "dane_code": 50124,
+    "departament_id": 22
+  },
+  {
+    "name": "Cubarral",
+    "iso_3166_3": null,
+    "dane_code": 50223,
+    "departament_id": 22
+  },
+  {
+    "name": "Cumaral",
+    "iso_3166_3": null,
+    "dane_code": 50226,
+    "departament_id": 22
+  },
+  {
+    "name": "El Calvario",
+    "iso_3166_3": null,
+    "dane_code": 50245,
+    "departament_id": 22
+  },
+  {
+    "name": "El Castillo",
+    "iso_3166_3": null,
+    "dane_code": 50251,
+    "departament_id": 22
+  },
+  {
+    "name": "El Dorado",
+    "iso_3166_3": null,
+    "dane_code": 5027,
+    "departament_id": 22
+  },
+  {
+    "name": "Granada",
+    "iso_3166_3": null,
+    "dane_code": 50313,
+    "departament_id": 22
+  },
+  {
+    "name": "Guamal",
+    "iso_3166_3": null,
+    "dane_code": 50318,
+    "departament_id": 22
+  },
+  {
+    "name": "Mapiripán",
+    "iso_3166_3": null,
+    "dane_code": 50325,
+    "departament_id": 22
+  },
+  {
+    "name": "Mesetas",
+    "iso_3166_3": null,
+    "dane_code": 5033,
+    "departament_id": 22
+  },
+  {
+    "name": "La Macarena",
+    "iso_3166_3": null,
+    "dane_code": 5035,
+    "departament_id": 22
+  },
+  {
+    "name": "Uribe",
+    "iso_3166_3": null,
+    "dane_code": 5037,
+    "departament_id": 22
+  },
+  {
+    "name": "Lejanías",
+    "iso_3166_3": null,
+    "dane_code": 504,
+    "departament_id": 22
+  },
+  {
+    "name": "Puerto Concordia",
+    "iso_3166_3": null,
+    "dane_code": 5045,
+    "departament_id": 22
+  },
+  {
+    "name": "Puerto Gaitán",
+    "iso_3166_3": null,
+    "dane_code": 50568,
+    "departament_id": 22
+  },
+  {
+    "name": "Puerto López",
+    "iso_3166_3": null,
+    "dane_code": 50573,
+    "departament_id": 22
+  },
+  {
+    "name": "Puerto Lleras",
+    "iso_3166_3": null,
+    "dane_code": 50577,
+    "departament_id": 22
+  },
+  {
+    "name": "Puerto Rico",
+    "iso_3166_3": null,
+    "dane_code": 5059,
+    "departament_id": 22
+  },
+  {
+    "name": "Restrepo",
+    "iso_3166_3": null,
+    "dane_code": 50606,
+    "departament_id": 22
+  },
+  {
+    "name": "San Juanito",
+    "iso_3166_3": null,
+    "dane_code": 50686,
+    "departament_id": 22
+  },
+  {
+    "name": "San Martín",
+    "iso_3166_3": null,
+    "dane_code": 50689,
+    "departament_id": 22
+  },
+  {
+    "name": "Vista Hermosa",
+    "iso_3166_3": null,
+    "dane_code": 50711,
+    "departament_id": 22
+  },
+  {
+    "name": "Barranca de Upía",
+    "iso_3166_3": null,
+    "dane_code": 5011,
+    "departament_id": 22
+  },
+  {
+    "name": "Fuente de Oro",
+    "iso_3166_3": null,
+    "dane_code": 50287,
+    "departament_id": 22
+  },
+  {
+    "name": "San Carlos de Guaroa",
+    "iso_3166_3": null,
+    "dane_code": 5068,
+    "departament_id": 22
+  },
+  {
+    "name": "San Juan de Arama",
+    "iso_3166_3": null,
+    "dane_code": 50683,
+    "departament_id": 22
+  },
+  {
+    "name": "Buesaco",
+    "iso_3166_3": null,
+    "dane_code": 5211,
+    "departament_id": 23
+  },
+  {
+    "name": "San Andrés de Tumaco",
+    "iso_3166_3": null,
+    "dane_code": 52835,
+    "departament_id": 23
+  },
+  {
+    "name": "Belén",
+    "iso_3166_3": null,
+    "dane_code": 52083,
+    "departament_id": 23
+  },
+  {
+    "name": "Chachagüí",
+    "iso_3166_3": null,
+    "dane_code": 5224,
+    "departament_id": 23
+  },
+  {
+    "name": "Arboleda",
+    "iso_3166_3": null,
+    "dane_code": 52051,
+    "departament_id": 23
+  },
+  {
+    "name": "Pasto",
+    "iso_3166_3": null,
+    "dane_code": 52001,
+    "departament_id": 23
+  },
+  {
+    "name": "Albán",
+    "iso_3166_3": null,
+    "dane_code": 52019,
+    "departament_id": 23
+  },
+  {
+    "name": "Aldana",
+    "iso_3166_3": null,
+    "dane_code": 52022,
+    "departament_id": 23
+  },
+  {
+    "name": "Ancuyá",
+    "iso_3166_3": null,
+    "dane_code": 52036,
+    "departament_id": 23
+  },
+  {
+    "name": "Barbacoas",
+    "iso_3166_3": null,
+    "dane_code": 52079,
+    "departament_id": 23
+  },
+  {
+    "name": "Colón",
+    "iso_3166_3": null,
+    "dane_code": 52203,
+    "departament_id": 23
+  },
+  {
+    "name": "Consaca",
+    "iso_3166_3": null,
+    "dane_code": 52207,
+    "departament_id": 23
+  },
+  {
+    "name": "Contadero",
+    "iso_3166_3": null,
+    "dane_code": 5221,
+    "departament_id": 23
+  },
+  {
+    "name": "Córdoba",
+    "iso_3166_3": null,
+    "dane_code": 52215,
+    "departament_id": 23
+  },
+  {
+    "name": "Cuaspud",
+    "iso_3166_3": null,
+    "dane_code": 52224,
+    "departament_id": 23
+  },
+  {
+    "name": "Cumbal",
+    "iso_3166_3": null,
+    "dane_code": 52227,
+    "departament_id": 23
+  },
+  {
+    "name": "Cumbitara",
+    "iso_3166_3": null,
+    "dane_code": 52233,
+    "departament_id": 23
+  },
+  {
+    "name": "El Charco",
+    "iso_3166_3": null,
+    "dane_code": 5225,
+    "departament_id": 23
+  },
+  {
+    "name": "El Peñol",
+    "iso_3166_3": null,
+    "dane_code": 52254,
+    "departament_id": 23
+  },
+  {
+    "name": "El Rosario",
+    "iso_3166_3": null,
+    "dane_code": 52256,
+    "departament_id": 23
+  },
+  {
+    "name": "El Tambo",
+    "iso_3166_3": null,
+    "dane_code": 5226,
+    "departament_id": 23
+  },
+  {
+    "name": "Funes",
+    "iso_3166_3": null,
+    "dane_code": 52287,
+    "departament_id": 23
+  },
+  {
+    "name": "Guachucal",
+    "iso_3166_3": null,
+    "dane_code": 52317,
+    "departament_id": 23
+  },
+  {
+    "name": "Guaitarilla",
+    "iso_3166_3": null,
+    "dane_code": 5232,
+    "departament_id": 23
+  },
+  {
+    "name": "Gualmatán",
+    "iso_3166_3": null,
+    "dane_code": 52323,
+    "departament_id": 23
+  },
+  {
+    "name": "Iles",
+    "iso_3166_3": null,
+    "dane_code": 52352,
+    "departament_id": 23
+  },
+  {
+    "name": "Imués",
+    "iso_3166_3": null,
+    "dane_code": 52354,
+    "departament_id": 23
+  },
+  {
+    "name": "Ipiales",
+    "iso_3166_3": null,
+    "dane_code": 52356,
+    "departament_id": 23
+  },
+  {
+    "name": "La Cruz",
+    "iso_3166_3": null,
+    "dane_code": 52378,
+    "departament_id": 23
+  },
+  {
+    "name": "La Florida",
+    "iso_3166_3": null,
+    "dane_code": 52381,
+    "departament_id": 23
+  },
+  {
+    "name": "La Llanada",
+    "iso_3166_3": null,
+    "dane_code": 52385,
+    "departament_id": 23
+  },
+  {
+    "name": "La Tola",
+    "iso_3166_3": null,
+    "dane_code": 5239,
+    "departament_id": 23
+  },
+  {
+    "name": "La Unión",
+    "iso_3166_3": null,
+    "dane_code": 52399,
+    "departament_id": 23
+  },
+  {
+    "name": "Leiva",
+    "iso_3166_3": null,
+    "dane_code": 52405,
+    "departament_id": 23
+  },
+  {
+    "name": "Linares",
+    "iso_3166_3": null,
+    "dane_code": 52411,
+    "departament_id": 23
+  },
+  {
+    "name": "Los Andes",
+    "iso_3166_3": null,
+    "dane_code": 52418,
+    "departament_id": 23
+  },
+  {
+    "name": "Magüí",
+    "iso_3166_3": null,
+    "dane_code": 52427,
+    "departament_id": 23
+  },
+  {
+    "name": "Mallama",
+    "iso_3166_3": null,
+    "dane_code": 52435,
+    "departament_id": 23
+  },
+  {
+    "name": "Mosquera",
+    "iso_3166_3": null,
+    "dane_code": 52473,
+    "departament_id": 23
+  },
+  {
+    "name": "Nariño",
+    "iso_3166_3": null,
+    "dane_code": 5248,
+    "departament_id": 23
+  },
+  {
+    "name": "Olaya Herrera",
+    "iso_3166_3": null,
+    "dane_code": 5249,
+    "departament_id": 23
+  },
+  {
+    "name": "Ospina",
+    "iso_3166_3": null,
+    "dane_code": 52506,
+    "departament_id": 23
+  },
+  {
+    "name": "Francisco Pizarro",
+    "iso_3166_3": null,
+    "dane_code": 5252,
+    "departament_id": 23
+  },
+  {
+    "name": "Policarpa",
+    "iso_3166_3": null,
+    "dane_code": 5254,
+    "departament_id": 23
+  },
+  {
+    "name": "Potosí",
+    "iso_3166_3": null,
+    "dane_code": 5256,
+    "departament_id": 23
+  },
+  {
+    "name": "Providencia",
+    "iso_3166_3": null,
+    "dane_code": 52565,
+    "departament_id": 23
+  },
+  {
+    "name": "Puerres",
+    "iso_3166_3": null,
+    "dane_code": 52573,
+    "departament_id": 23
+  },
+  {
+    "name": "Pupiales",
+    "iso_3166_3": null,
+    "dane_code": 52585,
+    "departament_id": 23
+  },
+  {
+    "name": "Ricaurte",
+    "iso_3166_3": null,
+    "dane_code": 52612,
+    "departament_id": 23
+  },
+  {
+    "name": "Roberto Payán",
+    "iso_3166_3": null,
+    "dane_code": 52621,
+    "departament_id": 23
+  },
+  {
+    "name": "Samaniego",
+    "iso_3166_3": null,
+    "dane_code": 52678,
+    "departament_id": 23
+  },
+  {
+    "name": "Sandoná",
+    "iso_3166_3": null,
+    "dane_code": 52683,
+    "departament_id": 23
+  },
+  {
+    "name": "San Bernardo",
+    "iso_3166_3": null,
+    "dane_code": 52685,
+    "departament_id": 23
+  },
+  {
+    "name": "San Lorenzo",
+    "iso_3166_3": null,
+    "dane_code": 52687,
+    "departament_id": 23
+  },
+  {
+    "name": "San Pablo",
+    "iso_3166_3": null,
+    "dane_code": 52693,
+    "departament_id": 23
+  },
+  {
+    "name": "Santa Bárbara",
+    "iso_3166_3": null,
+    "dane_code": 52696,
+    "departament_id": 23
+  },
+  {
+    "name": "Sapuyes",
+    "iso_3166_3": null,
+    "dane_code": 5272,
+    "departament_id": 23
+  },
+  {
+    "name": "Taminango",
+    "iso_3166_3": null,
+    "dane_code": 52786,
+    "departament_id": 23
+  },
+  {
+    "name": "Tangua",
+    "iso_3166_3": null,
+    "dane_code": 52788,
+    "departament_id": 23
+  },
+  {
+    "name": "Santacruz",
+    "iso_3166_3": null,
+    "dane_code": 52699,
+    "departament_id": 23
+  },
+  {
+    "name": "Túquerres",
+    "iso_3166_3": null,
+    "dane_code": 52838,
+    "departament_id": 23
+  },
+  {
+    "name": "Yacuanquer",
+    "iso_3166_3": null,
+    "dane_code": 52885,
+    "departament_id": 23
+  },
+  {
+    "name": "San Pedro de Cartago",
+    "iso_3166_3": null,
+    "dane_code": 52694,
+    "departament_id": 23
+  },
+  {
+    "name": "El Tablón de Gómez",
+    "iso_3166_3": null,
+    "dane_code": 52258,
+    "departament_id": 23
+  },
+  {
+    "name": "Pamplona",
+    "iso_3166_3": null,
+    "dane_code": 54518,
+    "departament_id": 24
+  },
+  {
+    "name": "Pamplonita",
+    "iso_3166_3": null,
+    "dane_code": 5452,
+    "departament_id": 24
+  },
+  {
+    "name": "Cúcuta",
+    "iso_3166_3": null,
+    "dane_code": 54001,
+    "departament_id": 24
+  },
+  {
+    "name": "El Carmen",
+    "iso_3166_3": null,
+    "dane_code": 54245,
+    "departament_id": 24
+  },
+  {
+    "name": "Silos",
+    "iso_3166_3": null,
+    "dane_code": 54743,
+    "departament_id": 24
+  },
+  {
+    "name": "Cácota",
+    "iso_3166_3": null,
+    "dane_code": 54125,
+    "departament_id": 24
+  },
+  {
+    "name": "Toledo",
+    "iso_3166_3": null,
+    "dane_code": 5482,
+    "departament_id": 24
+  },
+  {
+    "name": "Mutiscua",
+    "iso_3166_3": null,
+    "dane_code": 5448,
+    "departament_id": 24
+  },
+  {
+    "name": "El Zulia",
+    "iso_3166_3": null,
+    "dane_code": 54261,
+    "departament_id": 24
+  },
+  {
+    "name": "Salazar",
+    "iso_3166_3": null,
+    "dane_code": 5466,
+    "departament_id": 24
+  },
+  {
+    "name": "Cucutilla",
+    "iso_3166_3": null,
+    "dane_code": 54223,
+    "departament_id": 24
+  },
+  {
+    "name": "Puerto Santander",
+    "iso_3166_3": null,
+    "dane_code": 54553,
+    "departament_id": 24
+  },
+  {
+    "name": "Gramalote",
+    "iso_3166_3": null,
+    "dane_code": 54313,
+    "departament_id": 24
+  },
+  {
+    "name": "El Tarra",
+    "iso_3166_3": null,
+    "dane_code": 5425,
+    "departament_id": 24
+  },
+  {
+    "name": "Teorama",
+    "iso_3166_3": null,
+    "dane_code": 548,
+    "departament_id": 24
+  },
+  {
+    "name": "Arboledas",
+    "iso_3166_3": null,
+    "dane_code": 54051,
+    "departament_id": 24
+  },
+  {
+    "name": "Lourdes",
+    "iso_3166_3": null,
+    "dane_code": 54418,
+    "departament_id": 24
+  },
+  {
+    "name": "Bochalema",
+    "iso_3166_3": null,
+    "dane_code": 54099,
+    "departament_id": 24
+  },
+  {
+    "name": "Convención",
+    "iso_3166_3": null,
+    "dane_code": 54206,
+    "departament_id": 24
+  },
+  {
+    "name": "Hacarí",
+    "iso_3166_3": null,
+    "dane_code": 54344,
+    "departament_id": 24
+  },
+  {
+    "name": "Herrán",
+    "iso_3166_3": null,
+    "dane_code": 54347,
+    "departament_id": 24
+  },
+  {
+    "name": "Tibú",
+    "iso_3166_3": null,
+    "dane_code": 5481,
+    "departament_id": 24
+  },
+  {
+    "name": "San Cayetano",
+    "iso_3166_3": null,
+    "dane_code": 54673,
+    "departament_id": 24
+  },
+  {
+    "name": "San Calixto",
+    "iso_3166_3": null,
+    "dane_code": 5467,
+    "departament_id": 24
+  },
+  {
+    "name": "La Playa",
+    "iso_3166_3": null,
+    "dane_code": 54398,
+    "departament_id": 24
+  },
+  {
+    "name": "Chinácota",
+    "iso_3166_3": null,
+    "dane_code": 54172,
+    "departament_id": 24
+  },
+  {
+    "name": "Ragonvalia",
+    "iso_3166_3": null,
+    "dane_code": 54599,
+    "departament_id": 24
+  },
+  {
+    "name": "La Esperanza",
+    "iso_3166_3": null,
+    "dane_code": 54385,
+    "departament_id": 24
+  },
+  {
+    "name": "Villa del Rosario",
+    "iso_3166_3": null,
+    "dane_code": 54874,
+    "departament_id": 24
+  },
+  {
+    "name": "Chitagá",
+    "iso_3166_3": null,
+    "dane_code": 54174,
+    "departament_id": 24
+  },
+  {
+    "name": "Sardinata",
+    "iso_3166_3": null,
+    "dane_code": 5472,
+    "departament_id": 24
+  },
+  {
+    "name": "Abrego",
+    "iso_3166_3": null,
+    "dane_code": 54003,
+    "departament_id": 24
+  },
+  {
+    "name": "Los Patios",
+    "iso_3166_3": null,
+    "dane_code": 54405,
+    "departament_id": 24
+  },
+  {
+    "name": "Ocaña",
+    "iso_3166_3": null,
+    "dane_code": 54498,
+    "departament_id": 24
+  },
+  {
+    "name": "Bucarasica",
+    "iso_3166_3": null,
+    "dane_code": 54109,
+    "departament_id": 24
+  },
+  {
+    "name": "Santiago",
+    "iso_3166_3": null,
+    "dane_code": 5468,
+    "departament_id": 24
+  },
+  {
+    "name": "Labateca",
+    "iso_3166_3": null,
+    "dane_code": 54377,
+    "departament_id": 24
+  },
+  {
+    "name": "Cachirá",
+    "iso_3166_3": null,
+    "dane_code": 54128,
+    "departament_id": 24
+  },
+  {
+    "name": "Villa Caro",
+    "iso_3166_3": null,
+    "dane_code": 54871,
+    "departament_id": 24
+  },
+  {
+    "name": "Durania",
+    "iso_3166_3": null,
+    "dane_code": 54239,
+    "departament_id": 24
+  },
+  {
+    "name": "Puerto Asís",
+    "iso_3166_3": null,
+    "dane_code": 86568,
+    "departament_id": 25
+  },
+  {
+    "name": "Villagarzón",
+    "iso_3166_3": null,
+    "dane_code": 86885,
+    "departament_id": 25
+  },
+  {
+    "name": "Mocoa",
+    "iso_3166_3": null,
+    "dane_code": 86001,
+    "departament_id": 25
+  },
+  {
+    "name": "Colón",
+    "iso_3166_3": null,
+    "dane_code": 86219,
+    "departament_id": 25
+  },
+  {
+    "name": "Orito",
+    "iso_3166_3": null,
+    "dane_code": 8632,
+    "departament_id": 25
+  },
+  {
+    "name": "Puerto Caicedo",
+    "iso_3166_3": null,
+    "dane_code": 86569,
+    "departament_id": 25
+  },
+  {
+    "name": "Puerto Guzmán",
+    "iso_3166_3": null,
+    "dane_code": 86571,
+    "departament_id": 25
+  },
+  {
+    "name": "Leguízamo",
+    "iso_3166_3": null,
+    "dane_code": 86573,
+    "departament_id": 25
+  },
+  {
+    "name": "Sibundoy",
+    "iso_3166_3": null,
+    "dane_code": 86749,
+    "departament_id": 25
+  },
+  {
+    "name": "San Francisco",
+    "iso_3166_3": null,
+    "dane_code": 86755,
+    "departament_id": 25
+  },
+  {
+    "name": "San Miguel",
+    "iso_3166_3": null,
+    "dane_code": 86757,
+    "departament_id": 25
+  },
+  {
+    "name": "Santiago",
+    "iso_3166_3": null,
+    "dane_code": 8676,
+    "departament_id": 25
+  },
+  {
+    "name": "Valle de Guamez",
+    "iso_3166_3": null,
+    "dane_code": 86865,
+    "departament_id": 25
+  },
+  {
+    "name": "Calarcá",
+    "iso_3166_3": null,
+    "dane_code": 6313,
+    "departament_id": 26
+  },
+  {
+    "name": "Génova",
+    "iso_3166_3": null,
+    "dane_code": 63302,
+    "departament_id": 26
+  },
+  {
+    "name": "Armenia",
+    "iso_3166_3": null,
+    "dane_code": 63001,
+    "departament_id": 26
+  },
+  {
+    "name": "Buenavista",
+    "iso_3166_3": null,
+    "dane_code": 63111,
+    "departament_id": 26
+  },
+  {
+    "name": "Circasia",
+    "iso_3166_3": null,
+    "dane_code": 6319,
+    "departament_id": 26
+  },
+  {
+    "name": "Córdoba",
+    "iso_3166_3": null,
+    "dane_code": 63212,
+    "departament_id": 26
+  },
+  {
+    "name": "Filandia",
+    "iso_3166_3": null,
+    "dane_code": 63272,
+    "departament_id": 26
+  },
+  {
+    "name": "La Tebaida",
+    "iso_3166_3": null,
+    "dane_code": 63401,
+    "departament_id": 26
+  },
+  {
+    "name": "Montenegro",
+    "iso_3166_3": null,
+    "dane_code": 6347,
+    "departament_id": 26
+  },
+  {
+    "name": "Pijao",
+    "iso_3166_3": null,
+    "dane_code": 63548,
+    "departament_id": 26
+  },
+  {
+    "name": "Quimbaya",
+    "iso_3166_3": null,
+    "dane_code": 63594,
+    "departament_id": 26
+  },
+  {
+    "name": "Salento",
+    "iso_3166_3": null,
+    "dane_code": 6369,
+    "departament_id": 26
+  },
+  {
+    "name": "Pereira",
+    "iso_3166_3": null,
+    "dane_code": 66001,
+    "departament_id": 27
+  },
+  {
+    "name": "Apía",
+    "iso_3166_3": null,
+    "dane_code": 66045,
+    "departament_id": 27
+  },
+  {
+    "name": "Balboa",
+    "iso_3166_3": null,
+    "dane_code": 66075,
+    "departament_id": 27
+  },
+  {
+    "name": "Dosquebradas",
+    "iso_3166_3": null,
+    "dane_code": 6617,
+    "departament_id": 27
+  },
+  {
+    "name": "Guática",
+    "iso_3166_3": null,
+    "dane_code": 66318,
+    "departament_id": 27
+  },
+  {
+    "name": "La Celia",
+    "iso_3166_3": null,
+    "dane_code": 66383,
+    "departament_id": 27
+  },
+  {
+    "name": "La Virginia",
+    "iso_3166_3": null,
+    "dane_code": 664,
+    "departament_id": 27
+  },
+  {
+    "name": "Marsella",
+    "iso_3166_3": null,
+    "dane_code": 6644,
+    "departament_id": 27
+  },
+  {
+    "name": "Mistrató",
+    "iso_3166_3": null,
+    "dane_code": 66456,
+    "departament_id": 27
+  },
+  {
+    "name": "Pueblo Rico",
+    "iso_3166_3": null,
+    "dane_code": 66572,
+    "departament_id": 27
+  },
+  {
+    "name": "Quinchía",
+    "iso_3166_3": null,
+    "dane_code": 66594,
+    "departament_id": 27
+  },
+  {
+    "name": "Santuario",
+    "iso_3166_3": null,
+    "dane_code": 66687,
+    "departament_id": 27
+  },
+  {
+    "name": "Santa Rosa de Cabal",
+    "iso_3166_3": null,
+    "dane_code": 66682,
+    "departament_id": 27
+  },
+  {
+    "name": "Belén de Umbría",
+    "iso_3166_3": null,
+    "dane_code": 66088,
+    "departament_id": 27
+  },
+  {
+    "name": "Chimá",
+    "iso_3166_3": null,
+    "dane_code": 68176,
+    "departament_id": 28
+  },
+  {
+    "name": "Capitanejo",
+    "iso_3166_3": null,
+    "dane_code": 68147,
+    "departament_id": 28
+  },
+  {
+    "name": "El Peñón",
+    "iso_3166_3": null,
+    "dane_code": 6825,
+    "departament_id": 28
+  },
+  {
+    "name": "Puerto Wilches",
+    "iso_3166_3": null,
+    "dane_code": 68575,
+    "departament_id": 28
+  },
+  {
+    "name": "Puerto Parra",
+    "iso_3166_3": null,
+    "dane_code": 68573,
+    "departament_id": 28
+  },
+  {
+    "name": "Bucaramanga",
+    "iso_3166_3": null,
+    "dane_code": 68001,
+    "departament_id": 28
+  },
+  {
+    "name": "Aguada",
+    "iso_3166_3": null,
+    "dane_code": 68013,
+    "departament_id": 28
+  },
+  {
+    "name": "Albania",
+    "iso_3166_3": null,
+    "dane_code": 6802,
+    "departament_id": 28
+  },
+  {
+    "name": "Aratoca",
+    "iso_3166_3": null,
+    "dane_code": 68051,
+    "departament_id": 28
+  },
+  {
+    "name": "Barbosa",
+    "iso_3166_3": null,
+    "dane_code": 68077,
+    "departament_id": 28
+  },
+  {
+    "name": "Barichara",
+    "iso_3166_3": null,
+    "dane_code": 68079,
+    "departament_id": 28
+  },
+  {
+    "name": "Barrancabermeja",
+    "iso_3166_3": null,
+    "dane_code": 68081,
+    "departament_id": 28
+  },
+  {
+    "name": "Betulia",
+    "iso_3166_3": null,
+    "dane_code": 68092,
+    "departament_id": 28
+  },
+  {
+    "name": "Bolívar",
+    "iso_3166_3": null,
+    "dane_code": 68101,
+    "departament_id": 28
+  },
+  {
+    "name": "Cabrera",
+    "iso_3166_3": null,
+    "dane_code": 68121,
+    "departament_id": 28
+  },
+  {
+    "name": "California",
+    "iso_3166_3": null,
+    "dane_code": 68132,
+    "departament_id": 28
+  },
+  {
+    "name": "Carcasí",
+    "iso_3166_3": null,
+    "dane_code": 68152,
+    "departament_id": 28
+  },
+  {
+    "name": "Cepitá",
+    "iso_3166_3": null,
+    "dane_code": 6816,
+    "departament_id": 28
+  },
+  {
+    "name": "Cerrito",
+    "iso_3166_3": null,
+    "dane_code": 68162,
+    "departament_id": 28
+  },
+  {
+    "name": "Charalá",
+    "iso_3166_3": null,
+    "dane_code": 68167,
+    "departament_id": 28
+  },
+  {
+    "name": "Charta",
+    "iso_3166_3": null,
+    "dane_code": 68169,
+    "departament_id": 28
+  },
+  {
+    "name": "Chipatá",
+    "iso_3166_3": null,
+    "dane_code": 68179,
+    "departament_id": 28
+  },
+  {
+    "name": "Cimitarra",
+    "iso_3166_3": null,
+    "dane_code": 6819,
+    "departament_id": 28
+  },
+  {
+    "name": "Concepción",
+    "iso_3166_3": null,
+    "dane_code": 68207,
+    "departament_id": 28
+  },
+  {
+    "name": "Confines",
+    "iso_3166_3": null,
+    "dane_code": 68209,
+    "departament_id": 28
+  },
+  {
+    "name": "Contratación",
+    "iso_3166_3": null,
+    "dane_code": 68211,
+    "departament_id": 28
+  },
+  {
+    "name": "Coromoro",
+    "iso_3166_3": null,
+    "dane_code": 68217,
+    "departament_id": 28
+  },
+  {
+    "name": "Curití",
+    "iso_3166_3": null,
+    "dane_code": 68229,
+    "departament_id": 28
+  },
+  {
+    "name": "El Guacamayo",
+    "iso_3166_3": null,
+    "dane_code": 68245,
+    "departament_id": 28
+  },
+  {
+    "name": "El Playón",
+    "iso_3166_3": null,
+    "dane_code": 68255,
+    "departament_id": 28
+  },
+  {
+    "name": "Encino",
+    "iso_3166_3": null,
+    "dane_code": 68264,
+    "departament_id": 28
+  },
+  {
+    "name": "Enciso",
+    "iso_3166_3": null,
+    "dane_code": 68266,
+    "departament_id": 28
+  },
+  {
+    "name": "Florián",
+    "iso_3166_3": null,
+    "dane_code": 68271,
+    "departament_id": 28
+  },
+  {
+    "name": "Floridablanca",
+    "iso_3166_3": null,
+    "dane_code": 68276,
+    "departament_id": 28
+  },
+  {
+    "name": "Galán",
+    "iso_3166_3": null,
+    "dane_code": 68296,
+    "departament_id": 28
+  },
+  {
+    "name": "Gambita",
+    "iso_3166_3": null,
+    "dane_code": 68298,
+    "departament_id": 28
+  },
+  {
+    "name": "Girón",
+    "iso_3166_3": null,
+    "dane_code": 68307,
+    "departament_id": 28
+  },
+  {
+    "name": "Guaca",
+    "iso_3166_3": null,
+    "dane_code": 68318,
+    "departament_id": 28
+  },
+  {
+    "name": "Guadalupe",
+    "iso_3166_3": null,
+    "dane_code": 6832,
+    "departament_id": 28
+  },
+  {
+    "name": "Guapotá",
+    "iso_3166_3": null,
+    "dane_code": 68322,
+    "departament_id": 28
+  },
+  {
+    "name": "Guavatá",
+    "iso_3166_3": null,
+    "dane_code": 68324,
+    "departament_id": 28
+  },
+  {
+    "name": "Güepsa",
+    "iso_3166_3": null,
+    "dane_code": 68327,
+    "departament_id": 28
+  },
+  {
+    "name": "Jesús María",
+    "iso_3166_3": null,
+    "dane_code": 68368,
+    "departament_id": 28
+  },
+  {
+    "name": "Jordán",
+    "iso_3166_3": null,
+    "dane_code": 6837,
+    "departament_id": 28
+  },
+  {
+    "name": "La Belleza",
+    "iso_3166_3": null,
+    "dane_code": 68377,
+    "departament_id": 28
+  },
+  {
+    "name": "Landázuri",
+    "iso_3166_3": null,
+    "dane_code": 68385,
+    "departament_id": 28
+  },
+  {
+    "name": "La Paz",
+    "iso_3166_3": null,
+    "dane_code": 68397,
+    "departament_id": 28
+  },
+  {
+    "name": "Lebríja",
+    "iso_3166_3": null,
+    "dane_code": 68406,
+    "departament_id": 28
+  },
+  {
+    "name": "Los Santos",
+    "iso_3166_3": null,
+    "dane_code": 68418,
+    "departament_id": 28
+  },
+  {
+    "name": "Macaravita",
+    "iso_3166_3": null,
+    "dane_code": 68425,
+    "departament_id": 28
+  },
+  {
+    "name": "Málaga",
+    "iso_3166_3": null,
+    "dane_code": 68432,
+    "departament_id": 28
+  },
+  {
+    "name": "Matanza",
+    "iso_3166_3": null,
+    "dane_code": 68444,
+    "departament_id": 28
+  },
+  {
+    "name": "Mogotes",
+    "iso_3166_3": null,
+    "dane_code": 68464,
+    "departament_id": 28
+  },
+  {
+    "name": "Molagavita",
+    "iso_3166_3": null,
+    "dane_code": 68468,
+    "departament_id": 28
+  },
+  {
+    "name": "Ocamonte",
+    "iso_3166_3": null,
+    "dane_code": 68498,
+    "departament_id": 28
+  },
+  {
+    "name": "Oiba",
+    "iso_3166_3": null,
+    "dane_code": 685,
+    "departament_id": 28
+  },
+  {
+    "name": "Onzaga",
+    "iso_3166_3": null,
+    "dane_code": 68502,
+    "departament_id": 28
+  },
+  {
+    "name": "Palmar",
+    "iso_3166_3": null,
+    "dane_code": 68522,
+    "departament_id": 28
+  },
+  {
+    "name": "Páramo",
+    "iso_3166_3": null,
+    "dane_code": 68533,
+    "departament_id": 28
+  },
+  {
+    "name": "Piedecuesta",
+    "iso_3166_3": null,
+    "dane_code": 68547,
+    "departament_id": 28
+  },
+  {
+    "name": "Pinchote",
+    "iso_3166_3": null,
+    "dane_code": 68549,
+    "departament_id": 28
+  },
+  {
+    "name": "Puente Nacional",
+    "iso_3166_3": null,
+    "dane_code": 68572,
+    "departament_id": 28
+  },
+  {
+    "name": "Rionegro",
+    "iso_3166_3": null,
+    "dane_code": 68615,
+    "departament_id": 28
+  },
+  {
+    "name": "San Andrés",
+    "iso_3166_3": null,
+    "dane_code": 68669,
+    "departament_id": 28
+  },
+  {
+    "name": "San Gil",
+    "iso_3166_3": null,
+    "dane_code": 68679,
+    "departament_id": 28
+  },
+  {
+    "name": "San Joaquín",
+    "iso_3166_3": null,
+    "dane_code": 68682,
+    "departament_id": 28
+  },
+  {
+    "name": "San Miguel",
+    "iso_3166_3": null,
+    "dane_code": 68686,
+    "departament_id": 28
+  },
+  {
+    "name": "Santa Bárbara",
+    "iso_3166_3": null,
+    "dane_code": 68705,
+    "departament_id": 28
+  },
+  {
+    "name": "Simacota",
+    "iso_3166_3": null,
+    "dane_code": 68745,
+    "departament_id": 28
+  },
+  {
+    "name": "Socorro",
+    "iso_3166_3": null,
+    "dane_code": 68755,
+    "departament_id": 28
+  },
+  {
+    "name": "Suaita",
+    "iso_3166_3": null,
+    "dane_code": 6877,
+    "departament_id": 28
+  },
+  {
+    "name": "Sucre",
+    "iso_3166_3": null,
+    "dane_code": 68773,
+    "departament_id": 28
+  },
+  {
+    "name": "Suratá",
+    "iso_3166_3": null,
+    "dane_code": 6878,
+    "departament_id": 28
+  },
+  {
+    "name": "Tona",
+    "iso_3166_3": null,
+    "dane_code": 6882,
+    "departament_id": 28
+  },
+  {
+    "name": "Vélez",
+    "iso_3166_3": null,
+    "dane_code": 68861,
+    "departament_id": 28
+  },
+  {
+    "name": "Vetas",
+    "iso_3166_3": null,
+    "dane_code": 68867,
+    "departament_id": 28
+  },
+  {
+    "name": "Villanueva",
+    "iso_3166_3": null,
+    "dane_code": 68872,
+    "departament_id": 28
+  },
+  {
+    "name": "Zapatoca",
+    "iso_3166_3": null,
+    "dane_code": 68895,
+    "departament_id": 28
+  },
+  {
+    "name": "Palmas del Socorro",
+    "iso_3166_3": null,
+    "dane_code": 68524,
+    "departament_id": 28
+  },
+  {
+    "name": "San Vicente de Chucurí",
+    "iso_3166_3": null,
+    "dane_code": 68689,
+    "departament_id": 28
+  },
+  {
+    "name": "San José de Miranda",
+    "iso_3166_3": null,
+    "dane_code": 68684,
+    "departament_id": 28
+  },
+  {
+    "name": "Santa Helena del Opón",
+    "iso_3166_3": null,
+    "dane_code": 6872,
+    "departament_id": 28
+  },
+  {
+    "name": "Sabana de Torres",
+    "iso_3166_3": null,
+    "dane_code": 68655,
+    "departament_id": 28
+  },
+  {
+    "name": "El Carmen de Chucurí",
+    "iso_3166_3": null,
+    "dane_code": 68235,
+    "departament_id": 28
+  },
+  {
+    "name": "Valle de San José",
+    "iso_3166_3": null,
+    "dane_code": 68855,
+    "departament_id": 28
+  },
+  {
+    "name": "San Benito",
+    "iso_3166_3": null,
+    "dane_code": 68673,
+    "departament_id": 28
+  },
+  {
+    "name": "Hato",
+    "iso_3166_3": null,
+    "dane_code": 68344,
+    "departament_id": 28
+  },
+  {
+    "name": "Sampués",
+    "iso_3166_3": null,
+    "dane_code": 7067,
+    "departament_id": 29
+  },
+  {
+    "name": "Corozal",
+    "iso_3166_3": null,
+    "dane_code": 70215,
+    "departament_id": 29
+  },
+  {
+    "name": "Sincelejo",
+    "iso_3166_3": null,
+    "dane_code": 70001,
+    "departament_id": 29
+  },
+  {
+    "name": "Buenavista",
+    "iso_3166_3": null,
+    "dane_code": 7011,
+    "departament_id": 29
+  },
+  {
+    "name": "Caimito",
+    "iso_3166_3": null,
+    "dane_code": 70124,
+    "departament_id": 29
+  },
+  {
+    "name": "Coloso",
+    "iso_3166_3": null,
+    "dane_code": 70204,
+    "departament_id": 29
+  },
+  {
+    "name": "Coveñas",
+    "iso_3166_3": null,
+    "dane_code": 70221,
+    "departament_id": 29
+  },
+  {
+    "name": "Chalán",
+    "iso_3166_3": null,
+    "dane_code": 7023,
+    "departament_id": 29
+  },
+  {
+    "name": "El Roble",
+    "iso_3166_3": null,
+    "dane_code": 70233,
+    "departament_id": 29
+  },
+  {
+    "name": "Galeras",
+    "iso_3166_3": null,
+    "dane_code": 70235,
+    "departament_id": 29
+  },
+  {
+    "name": "Guaranda",
+    "iso_3166_3": null,
+    "dane_code": 70265,
+    "departament_id": 29
+  },
+  {
+    "name": "La Unión",
+    "iso_3166_3": null,
+    "dane_code": 704,
+    "departament_id": 29
+  },
+  {
+    "name": "Los Palmitos",
+    "iso_3166_3": null,
+    "dane_code": 70418,
+    "departament_id": 29
+  },
+  {
+    "name": "Majagual",
+    "iso_3166_3": null,
+    "dane_code": 70429,
+    "departament_id": 29
+  },
+  {
+    "name": "Morroa",
+    "iso_3166_3": null,
+    "dane_code": 70473,
+    "departament_id": 29
+  },
+  {
+    "name": "Ovejas",
+    "iso_3166_3": null,
+    "dane_code": 70508,
+    "departament_id": 29
+  },
+  {
+    "name": "Palmito",
+    "iso_3166_3": null,
+    "dane_code": 70523,
+    "departament_id": 29
+  },
+  {
+    "name": "San Benito Abad",
+    "iso_3166_3": null,
+    "dane_code": 70678,
+    "departament_id": 29
+  },
+  {
+    "name": "San Marcos",
+    "iso_3166_3": null,
+    "dane_code": 70708,
+    "departament_id": 29
+  },
+  {
+    "name": "San Onofre",
+    "iso_3166_3": null,
+    "dane_code": 70713,
+    "departament_id": 29
+  },
+  {
+    "name": "San Pedro",
+    "iso_3166_3": null,
+    "dane_code": 70717,
+    "departament_id": 29
+  },
+  {
+    "name": "Sucre",
+    "iso_3166_3": null,
+    "dane_code": 70771,
+    "departament_id": 29
+  },
+  {
+    "name": "Tolú Viejo",
+    "iso_3166_3": null,
+    "dane_code": 70823,
+    "departament_id": 29
+  },
+  {
+    "name": "San Luis de Sincé",
+    "iso_3166_3": null,
+    "dane_code": 70742,
+    "departament_id": 29
+  },
+  {
+    "name": "San Juan de Betulia",
+    "iso_3166_3": null,
+    "dane_code": 70702,
+    "departament_id": 29
+  },
+  {
+    "name": "Santiago de Tolú",
+    "iso_3166_3": null,
+    "dane_code": 7082,
+    "departament_id": 29
+  },
+  {
+    "name": "Casabianca",
+    "iso_3166_3": null,
+    "dane_code": 73152,
+    "departament_id": 30
+  },
+  {
+    "name": "Anzoátegui",
+    "iso_3166_3": null,
+    "dane_code": 73043,
+    "departament_id": 30
+  },
+  {
+    "name": "Ibagué",
+    "iso_3166_3": null,
+    "dane_code": 73001,
+    "departament_id": 30
+  },
+  {
+    "name": "Líbano",
+    "iso_3166_3": null,
+    "dane_code": 73411,
+    "departament_id": 30
+  },
+  {
+    "name": "Lérida",
+    "iso_3166_3": null,
+    "dane_code": 73408,
+    "departament_id": 30
+  },
+  {
+    "name": "Suárez",
+    "iso_3166_3": null,
+    "dane_code": 7377,
+    "departament_id": 30
+  },
+  {
+    "name": "Alpujarra",
+    "iso_3166_3": null,
+    "dane_code": 73024,
+    "departament_id": 30
+  },
+  {
+    "name": "Alvarado",
+    "iso_3166_3": null,
+    "dane_code": 73026,
+    "departament_id": 30
+  },
+  {
+    "name": "Ambalema",
+    "iso_3166_3": null,
+    "dane_code": 7303,
+    "departament_id": 30
+  },
+  {
+    "name": "Armero",
+    "iso_3166_3": null,
+    "dane_code": 73055,
+    "departament_id": 30
+  },
+  {
+    "name": "Ataco",
+    "iso_3166_3": null,
+    "dane_code": 73067,
+    "departament_id": 30
+  },
+  {
+    "name": "Cajamarca",
+    "iso_3166_3": null,
+    "dane_code": 73124,
+    "departament_id": 30
+  },
+  {
+    "name": "Chaparral",
+    "iso_3166_3": null,
+    "dane_code": 73168,
+    "departament_id": 30
+  },
+  {
+    "name": "Coello",
+    "iso_3166_3": null,
+    "dane_code": 732,
+    "departament_id": 30
+  },
+  {
+    "name": "Coyaima",
+    "iso_3166_3": null,
+    "dane_code": 73217,
+    "departament_id": 30
+  },
+  {
+    "name": "Cunday",
+    "iso_3166_3": null,
+    "dane_code": 73226,
+    "departament_id": 30
+  },
+  {
+    "name": "Dolores",
+    "iso_3166_3": null,
+    "dane_code": 73236,
+    "departament_id": 30
+  },
+  {
+    "name": "Espinal",
+    "iso_3166_3": null,
+    "dane_code": 73268,
+    "departament_id": 30
+  },
+  {
+    "name": "Falan",
+    "iso_3166_3": null,
+    "dane_code": 7327,
+    "departament_id": 30
+  },
+  {
+    "name": "Flandes",
+    "iso_3166_3": null,
+    "dane_code": 73275,
+    "departament_id": 30
+  },
+  {
+    "name": "Fresno",
+    "iso_3166_3": null,
+    "dane_code": 73283,
+    "departament_id": 30
+  },
+  {
+    "name": "Guamo",
+    "iso_3166_3": null,
+    "dane_code": 73319,
+    "departament_id": 30
+  },
+  {
+    "name": "Herveo",
+    "iso_3166_3": null,
+    "dane_code": 73347,
+    "departament_id": 30
+  },
+  {
+    "name": "Honda",
+    "iso_3166_3": null,
+    "dane_code": 73349,
+    "departament_id": 30
+  },
+  {
+    "name": "Icononzo",
+    "iso_3166_3": null,
+    "dane_code": 73352,
+    "departament_id": 30
+  },
+  {
+    "name": "Mariquita",
+    "iso_3166_3": null,
+    "dane_code": 73443,
+    "departament_id": 30
+  },
+  {
+    "name": "Melgar",
+    "iso_3166_3": null,
+    "dane_code": 73449,
+    "departament_id": 30
+  },
+  {
+    "name": "Murillo",
+    "iso_3166_3": null,
+    "dane_code": 73461,
+    "departament_id": 30
+  },
+  {
+    "name": "Natagaima",
+    "iso_3166_3": null,
+    "dane_code": 73483,
+    "departament_id": 30
+  },
+  {
+    "name": "Ortega",
+    "iso_3166_3": null,
+    "dane_code": 73504,
+    "departament_id": 30
+  },
+  {
+    "name": "Palocabildo",
+    "iso_3166_3": null,
+    "dane_code": 7352,
+    "departament_id": 30
+  },
+  {
+    "name": "Piedras",
+    "iso_3166_3": null,
+    "dane_code": 73547,
+    "departament_id": 30
+  },
+  {
+    "name": "Planadas",
+    "iso_3166_3": null,
+    "dane_code": 73555,
+    "departament_id": 30
+  },
+  {
+    "name": "Prado",
+    "iso_3166_3": null,
+    "dane_code": 73563,
+    "departament_id": 30
+  },
+  {
+    "name": "Purificación",
+    "iso_3166_3": null,
+    "dane_code": 73585,
+    "departament_id": 30
+  },
+  {
+    "name": "Rio Blanco",
+    "iso_3166_3": null,
+    "dane_code": 73616,
+    "departament_id": 30
+  },
+  {
+    "name": "Roncesvalles",
+    "iso_3166_3": null,
+    "dane_code": 73622,
+    "departament_id": 30
+  },
+  {
+    "name": "Rovira",
+    "iso_3166_3": null,
+    "dane_code": 73624,
+    "departament_id": 30
+  },
+  {
+    "name": "Saldaña",
+    "iso_3166_3": null,
+    "dane_code": 73671,
+    "departament_id": 30
+  },
+  {
+    "name": "Santa Isabel",
+    "iso_3166_3": null,
+    "dane_code": 73686,
+    "departament_id": 30
+  },
+  {
+    "name": "Venadillo",
+    "iso_3166_3": null,
+    "dane_code": 73861,
+    "departament_id": 30
+  },
+  {
+    "name": "Villahermosa",
+    "iso_3166_3": null,
+    "dane_code": 7387,
+    "departament_id": 30
+  },
+  {
+    "name": "Villarrica",
+    "iso_3166_3": null,
+    "dane_code": 73873,
+    "departament_id": 30
+  },
+  {
+    "name": "Valle de San Juan",
+    "iso_3166_3": null,
+    "dane_code": 73854,
+    "departament_id": 30
+  },
+  {
+    "name": "Carmen de Apicala",
+    "iso_3166_3": null,
+    "dane_code": 73148,
+    "departament_id": 30
+  },
+  {
+    "name": "San Luis",
+    "iso_3166_3": null,
+    "dane_code": 73678,
+    "departament_id": 30
+  },
+  {
+    "name": "San Antonio",
+    "iso_3166_3": null,
+    "dane_code": 73675,
+    "departament_id": 30
+  },
+  {
+    "name": "Tuluá",
+    "iso_3166_3": null,
+    "dane_code": 76834,
+    "departament_id": 31
+  },
+  {
+    "name": "Florida",
+    "iso_3166_3": null,
+    "dane_code": 76275,
+    "departament_id": 31
+  },
+  {
+    "name": "Jamundí",
+    "iso_3166_3": null,
+    "dane_code": 76364,
+    "departament_id": 31
+  },
+  {
+    "name": "Buenaventura",
+    "iso_3166_3": null,
+    "dane_code": 76109,
+    "departament_id": 31
+  },
+  {
+    "name": "El Dovio",
+    "iso_3166_3": null,
+    "dane_code": 7625,
+    "departament_id": 31
+  },
+  {
+    "name": "Roldanillo",
+    "iso_3166_3": null,
+    "dane_code": 76622,
+    "departament_id": 31
+  },
+  {
+    "name": "Argelia",
+    "iso_3166_3": null,
+    "dane_code": 76054,
+    "departament_id": 31
+  },
+  {
+    "name": "Sevilla",
+    "iso_3166_3": null,
+    "dane_code": 76736,
+    "departament_id": 31
+  },
+  {
+    "name": "Zarzal",
+    "iso_3166_3": null,
+    "dane_code": 76895,
+    "departament_id": 31
+  },
+  {
+    "name": "El Cerrito",
+    "iso_3166_3": null,
+    "dane_code": 76248,
+    "departament_id": 31
+  },
+  {
+    "name": "Cartago",
+    "iso_3166_3": null,
+    "dane_code": 76147,
+    "departament_id": 31
+  },
+  {
+    "name": "Caicedonia",
+    "iso_3166_3": null,
+    "dane_code": 76122,
+    "departament_id": 31
+  },
+  {
+    "name": "El Cairo",
+    "iso_3166_3": null,
+    "dane_code": 76246,
+    "departament_id": 31
+  },
+  {
+    "name": "La Unión",
+    "iso_3166_3": null,
+    "dane_code": 764,
+    "departament_id": 31
+  },
+  {
+    "name": "Restrepo",
+    "iso_3166_3": null,
+    "dane_code": 76606,
+    "departament_id": 31
+  },
+  {
+    "name": "Dagua",
+    "iso_3166_3": null,
+    "dane_code": 76233,
+    "departament_id": 31
+  },
+  {
+    "name": "Guacarí",
+    "iso_3166_3": null,
+    "dane_code": 76318,
+    "departament_id": 31
+  },
+  {
+    "name": "Ansermanuevo",
+    "iso_3166_3": null,
+    "dane_code": 76041,
+    "departament_id": 31
+  },
+  {
+    "name": "Bugalagrande",
+    "iso_3166_3": null,
+    "dane_code": 76113,
+    "departament_id": 31
+  },
+  {
+    "name": "La Victoria",
+    "iso_3166_3": null,
+    "dane_code": 76403,
+    "departament_id": 31
+  },
+  {
+    "name": "Ginebra",
+    "iso_3166_3": null,
+    "dane_code": 76306,
+    "departament_id": 31
+  },
+  {
+    "name": "Yumbo",
+    "iso_3166_3": null,
+    "dane_code": 76892,
+    "departament_id": 31
+  },
+  {
+    "name": "Obando",
+    "iso_3166_3": null,
+    "dane_code": 76497,
+    "departament_id": 31
+  },
+  {
+    "name": "Bolívar",
+    "iso_3166_3": null,
+    "dane_code": 761,
+    "departament_id": 31
+  },
+  {
+    "name": "Cali",
+    "iso_3166_3": null,
+    "dane_code": 76001,
+    "departament_id": 31
+  },
+  {
+    "name": "San Pedro",
+    "iso_3166_3": null,
+    "dane_code": 7667,
+    "departament_id": 31
+  },
+  {
+    "name": "Guadalajara de Buga",
+    "iso_3166_3": null,
+    "dane_code": 76111,
+    "departament_id": 31
+  },
+  {
+    "name": "Calima",
+    "iso_3166_3": null,
+    "dane_code": 76126,
+    "departament_id": 31
+  },
+  {
+    "name": "Andalucía",
+    "iso_3166_3": null,
+    "dane_code": 76036,
+    "departament_id": 31
+  },
+  {
+    "name": "Pradera",
+    "iso_3166_3": null,
+    "dane_code": 76563,
+    "departament_id": 31
+  },
+  {
+    "name": "Yotoco",
+    "iso_3166_3": null,
+    "dane_code": 7689,
+    "departament_id": 31
+  },
+  {
+    "name": "Palmira",
+    "iso_3166_3": null,
+    "dane_code": 7652,
+    "departament_id": 31
+  },
+  {
+    "name": "Riofrío",
+    "iso_3166_3": null,
+    "dane_code": 76616,
+    "departament_id": 31
+  },
+  {
+    "name": "Alcalá",
+    "iso_3166_3": null,
+    "dane_code": 7602,
+    "departament_id": 31
+  },
+  {
+    "name": "Versalles",
+    "iso_3166_3": null,
+    "dane_code": 76863,
+    "departament_id": 31
+  },
+  {
+    "name": "El Águila",
+    "iso_3166_3": null,
+    "dane_code": 76243,
+    "departament_id": 31
+  },
+  {
+    "name": "Toro",
+    "iso_3166_3": null,
+    "dane_code": 76823,
+    "departament_id": 31
+  },
+  {
+    "name": "Candelaria",
+    "iso_3166_3": null,
+    "dane_code": 7613,
+    "departament_id": 31
+  },
+  {
+    "name": "La Cumbre",
+    "iso_3166_3": null,
+    "dane_code": 76377,
+    "departament_id": 31
+  },
+  {
+    "name": "Ulloa",
+    "iso_3166_3": null,
+    "dane_code": 76845,
+    "departament_id": 31
+  },
+  {
+    "name": "Trujillo",
+    "iso_3166_3": null,
+    "dane_code": 76828,
+    "departament_id": 31
+  },
+  {
+    "name": "Vijes",
+    "iso_3166_3": null,
+    "dane_code": 76869,
+    "departament_id": 31
+  },
+  {
+    "name": "Yavaraté",
+    "iso_3166_3": null,
+    "dane_code": 97889,
+    "departament_id": 32
+  },
+  {
+    "name": "Mitú",
+    "iso_3166_3": null,
+    "dane_code": 97001,
+    "departament_id": 32
+  },
+  {
+    "name": "Caruru",
+    "iso_3166_3": null,
+    "dane_code": 97161,
+    "departament_id": 32
+  },
+  {
+    "name": "Pacoa",
+    "iso_3166_3": null,
+    "dane_code": 97511,
+    "departament_id": 32
+  },
+  {
+    "name": "Taraira",
+    "iso_3166_3": null,
+    "dane_code": 97666,
+    "departament_id": 32
+  },
+  {
+    "name": "Papunaua",
+    "iso_3166_3": null,
+    "dane_code": 97777,
+    "departament_id": 32
+  },
+  {
+    "name": "Puerto Carreño",
+    "iso_3166_3": null,
+    "dane_code": 99001,
+    "departament_id": 33
+  },
+  {
+    "name": "La Primavera",
+    "iso_3166_3": null,
+    "dane_code": 99524,
+    "departament_id": 33
+  },
+  {
+    "name": "Santa Rosalía",
+    "iso_3166_3": null,
+    "dane_code": 99624,
+    "departament_id": 33
+  },
+  {
+    "name": "Cumaribo",
+    "iso_3166_3": null,
+    "dane_code": 99773,
+    "departament_id": 33
+  }
+]

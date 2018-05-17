@@ -2,6 +2,7 @@
 
 namespace AnvarGear\States;
 
+use AnvarGear\cities\Cities;
 use Illuminate\Support\ServiceProvider;
 
 class StatesServiceProvider extends ServiceProvider
@@ -45,6 +46,18 @@ class StatesServiceProvider extends ServiceProvider
         $this->app->bind('states', function ($app) {
 
             return new States();
+        });
+    }
+    /**
+     * Register the service provider.
+     *
+     * @return void
+     */
+    public function registerCities()
+    {
+        $this->app->bind('cities', function ($app) {
+
+            return new Cities();
         });
     }
     /**
